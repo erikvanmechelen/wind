@@ -9,22 +9,22 @@ A Bud - Ser
 F Tri - Alb  
 ~~~~~~
 
-```javascript
+    ```javascript
     Austria(Balkan Gambit)
     A Vie - Tri/Gal/Bud  
     A Bud - Ser  
     F Tri - Alb  
-```
+    ```
 
 What does that look like? 
 
 {language=javascript,line-numbers=off}
-```javascript
+    ```javascript
     Austria(Balkan Gambit)
     A Vie - Tri/Gal/Bud  
     A Bud - Ser  
     F Tri - Alb  
-```
+    ```
 
 >a
 >a
