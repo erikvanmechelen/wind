@@ -1,3 +1,6 @@
-chapter1.txt
-chapter2.txt
-chapter3.txt
+nogamelike.md
+boardtop.md
+playeroftheyear.md
+acceptrevenge.md
+solo.md
+openings.md
