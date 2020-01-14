@@ -1,3 +1,4 @@
+{sample: true}
 # The Fundamentals
 
 My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games face-to-face or online, or simply hoping to step up your game to an intermediate level, you've come to the right place!

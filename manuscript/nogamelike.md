@@ -1,3 +1,4 @@
+{sample: true}
 # Why There is Still No Game like Diplomacy
 
 Richard Sharp said it well when he remarked that to win in Diplomacy you have to be a complete cad. I for one had to look up the definition: A man who behaves dishonorably, especially toward women.   

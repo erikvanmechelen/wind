@@ -1,3 +1,4 @@
+{sample: true}
 # Notation
 
 Diplomacy notation is easy to understand once you’ve learned it. I'll be using the following in this book: 
