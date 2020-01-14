@@ -2,7 +2,7 @@
 
 You miss 100% of the mistakes you don't try to commit. Even if you try to avoid mistakes, you'll make them anyway. It's the way of the world.  
 
-Jokes aside, it is extremenly hard to play even a near-perfect game of Diplomacy. 
+Jokes aside, it is extremely hard to play even a near-perfect game of Diplomacy. 
 
 I am damn sure yet to and highly doubt I ever will give a near-flawless performance.
 
