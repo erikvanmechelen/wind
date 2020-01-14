@@ -1,4 +1,4 @@
-# How to Win a Top Board
+# How to Top the Board
 
 On the Top Board of the 2019 Season of the Minnesota Diplomacy Club, as Austria I was eliminated first, alongside my early-game ally Italy, in 1905.
 
@@ -40,4 +40,4 @@ Overall, I made the wrong play and soon after the wrong read with regard to the 
 
 As the game progressed I collaborated with Italy and Turkey to reestablish Turkey with three home centers, and to my eye the game ended slightly prematurely with a draw vote which made Zachary Moore's Russia the winner (10-10-9 with France and England but winning the tiebreak having chosen last under the Paris Method) and the title of Best Diplomacy Player in Minnesota for 2019. The way I saw it at that point, each of Jake Langenfeld (France), Paul Manning (England)--despite a 1901 misorder, and Zachary Moore (Russia) were deserving winners and might have fought it out, especially with Turkey being back on three centers. To me, it felt like Zach wanted to win just a little bit more and persuaded them he would win the fight. Or maybe they persuaded themselves against the fight seeing as time was at our venue, unfortunately, short. 
 
-
+You might check the title of this section, scratch your head, and wonder why I've titled it so, but then you wouldn't really have an answer, except that in by doing an After Action Report, anyone can reverse-engineer their way to a board top. 

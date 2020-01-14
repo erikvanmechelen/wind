@@ -4,6 +4,6 @@ notation.md
 nogamelike.md
 boardtop.md
 playeroftheyear.md
-77mistakes.md
 solo.md
+77mistakes.md
 28openings.md

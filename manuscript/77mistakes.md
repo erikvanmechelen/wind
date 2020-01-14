@@ -1,10 +1,14 @@
 # 77 Common Mistakes
 
-It is hard to play a perfect game of Diplomacy. 
+You miss 100% of the mistakes you don't try to commit. Even if you try to avoid mistakes, you'll make them anyway. It's the way of the world.  
 
-I sure am yet to and doubt I ever will give a flawless performance.
+Jokes aside, it is extremenly hard to play even a near-perfect game of Diplomacy. 
 
-There are just too many mistakes, not to mention pitfalls, into which one can unknowingly walk. 
+I am damn sure yet to and highly doubt I ever will give a near-flawless performance.
+
+There are just too many mistakes, not to mention pitfalls, into which one can unknowingly walk.  
+
+Here's just a few of them. Maybe you can think of more.  
 
 ## No. 77 Not Speaking To All Players
 
