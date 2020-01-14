@@ -1,21 +1,274 @@
 # 28 Openings
 
-When I think about...
+Even though Opening Theory is fairly well established, it is worthwhile to review what you think you know, and to experience for yourself the nuances of starting the game with variations to your standard play. 
 
+I recently was refreshed to see that Andrew Goff's 'Modern Borders' concept, an early-game alliance between Austria and Italy, actually works, for multiple reasons. In this case, as Austria, I also disguised the arrangement as an attack against me, which was bought by several players, giving me a few years of freedom I wouldn't have normally received in my club while playing the red pieces.
 Modern Borders
 
-Juggernaut
+To my eyes, the relationships one builds in the opening are as important as choosing the correct theoretical or tactical opening.
 
-...
 
-Central power alliance...
+## AUSTRIA
 
-RAI
+I quite like playing Austria. As with the Germans, they are in the center of the action, the fulcrum of negotiations, the gravitational force upon which the game is pulled.  
 
-etc...
+With Austria, you can be a poet, a puppet master, and a symbol of power. Don't play scared. Instead, be fearless. Understand what your armies can do in pairs or groups of three, and don't forget to use your fleet wisely!
 
-The relationships you set up are more important than the tactical position. 
+1901
 
+Many players with red worried over their survival in the early game. Not so with Frederico. He merely wanted to understand with whom he could work with. If with Italy, all the better. This way the Italian could contribute to a balance of power in the Western Theatre whilst Frederico carved up the East. 
+
+In these scenarios, Frederico was unafraid of the apparently lopsided alliance with Turkey, understanding that if needed Italy could spare him a fleet or two to assist in bringing down the Turk once he and the Turk had crippled Russia. If Turkey was not inclined, Frederico was just as happy to work with the Russian.  
+
+Even in games where he came under attack, Frederico managed to glean the assistance of the German, prompting moves like A Mun - Tyr for protection of Trieste and Vienna.
+
+1902
+
+Some Austrian diplomats don't think beyond 1902 till they've survived till then. But to forgo such potential is a mistake Frederico and I agree on. (Only Mr. Barbosa, in his sourest moments, would even dream of taking on a survivalist mentality.)  
+
+And plan you should, else you be confronted with something like the following in Spring 1902: 
+
+Russia:  
+A Gal, A Rum  
+
+Italy:  
+A Tyr, A Ven  
+
+Turkey:  
+A Bul, F Smy  
+
+Actually, the above is only too common (and there are worse scenarios), but an Austrian with an ounce of grit and a measure of panache will know how to work his neighbors to his own delight. If it seems like Italy has your number, play his game for awhile. If Turkey would like to work with you, do not be afraid. At one point, even in these seemingly weakened arrangements, the well-timed stab is a knife in your favor. Better still, you may even keep it sheathed well into the mid-game.    
+
+FREDERICO’S CHOICE
+
+Some variation of the Balkan Gambit. Frederico was a master at making the right assessment with his Viennan army and an absolute enchanter in persuading his neighbors not to attack him too soon.  
+
+
+## England
+
+I drew England in my first game. This was some time before Mr. Barbosa and I had shored up what the map of the game should look like, and how it looks at the time of this writing. Redrawing territory boundaries and adjacencies changed quite a lot, it turned out. Even then, fleets held a certain sway.   
+
+As the rules developed, fleets maintained a charm that their brusque counterparts--armies--did not, and we liked that.  
+
+England, too, it was finally decided, should begin the game with two fleets, in Edinburgh and London. One would be too few. Three, too many. 
+
+
+1901
+
+England can afford to play a quiet opening so long as it keeps a frisky Frenchman out of the English Channel. Frederico was as likely to open there himself as not, and thanks to his diplomatic skill--when he did open there--often found it empty. "Leverage on Belgium is all," he would calmly remark.  
+
+My own taste is to feel out the Frenchman's own theory on the matter before making a decision. Frederico would mimic my tenor while mocking my oft-used phrase, "It will be situationally based." Won't all your decisions be?  
+
+
+
+BEYOND 1902
+
+Perhaps Englands' best choice for a partnership is with Germany. Even if Germany has the better of the arrangement, England's positioning of a mere two fleets--in the North Sea and the English Channel--can in a flash transpose into armies in the Low Countries or Denmark. Once England has expanded his reach, fleets in NTH and BAL can quickly carry troops for a chance to break through the stalemate line into Warsaw or Moscow.   
+
+
+FREDERICO’S CHOICE
+
+The poet was at home with England and versed in its nuances. As such, his opening choice could not be pinned like a badge on his lapel. 
+
+Sometimes Frederico even ordered A Lvp H (!). This to show the Russian (and everyone else) that he would not be convoying to Norway in Fall 1901. These again were the poetic nuances that Frederico would demonstrate just when you thought he'd given up his rebelliousness to the strict rule-governed approaches of Mr. Barbosa.  
+
+
+## France
+
+When discussing strategy, Frederico never pretended to know something he didn't know anything about. When he made a claim for a particular opening, it came from experience, or at least from a fellow player he respected. When he argued for a specific continuation, it was almost exclusively from experience. Frederico, as I, had a fondness for France, even if it didn't showcase the dynamism or challenge of other powers, in particular the central powers and Russia.  
+
+
+1901
+
+While it could be annoying to see the Englishman in ENG, the German in Bur, and the Italian in Pie, even this will not be the end of France's game. It is such that France gained a reputation for a comfortable and flexible defensive position in the opening. The Iberian peninsula holds two easy supply centers and routes to a good draw may continue with either German or French partnership (sometimes both).  
+
+
+BEYOND 1902
+
+France can do well with either of England or Germany onside, or even both, in the notorious Western Triple, which gets a jump on the Eastern theater. The Western Triple is decisive but varyingly useful depending on the scoring system at hand.  
+
+If France aims for a good draw or a solo, he likely will opt to partner with either of the English or the German. In a game where he must solo, he needs a plan to dismantle England, else England could reach the annoying 7-center stalemate position with the right maneuvers. Most English players will not be so clinical tactically, yet if a solo is desired, the French diplomat would do well to lay plans and create routes to the English isles at the right moment in the late early game or early mid-game. 
+
+
+
+FREDERICO’S CHOICE
+
+In longer games, Frederico tried to play a quiet opening as France. The Iberian Indecision (F Bre - MAO, A Par - Gas, A Mar - Spa) might be his quirky favorite, leaving his options flexible and the squabbles over Burgundy to the English and German. "Let the game develop," Frederico often said. 
+
+My preferences tend toward sending at least one unit to Burgundy, even though a German unit there by itself does not threaten France overly much. Better not to come across as weak and begin to change Germany's good opinion of you too early in the festivities.  
+
+In one game, I faired quite well by sending my southern army first to Piedmont and then into Tyrolia! This approach, which can be used by other Great Powers as well, is what came to be known in the Parisian underground as Scatter Theory.  
+
+All in all, Frederico and I agreed that France provided plentiful paths to good draws. It almost always had play in the middle game and can build fleets in the Atlantic and Mediterranean. Its home centers' distance from key central territories sometimes made solos elusive against strong opponents willing to establish stalemate lines. Nevertheless, a comfortable and enjoyable Great Power to command.  
+
+
+## Germany
+
+
+A central power with a lot to do and a lot to play for. With neighbors in France, England, Russia, Italy, and Austria, the German diplomat will be speaking with all other players for most of the game.  
+
+"This goes for any Great Power, but especially as Germany," Frederico opined over scotch on a train ride from Berlin to Munich, "I will maintain good relations and discussion with all players."
+
+"At least," he sips and takes a long look across the wintry countryside, "until that player is eliminated." 
+
+1901
+
+By numerics, Germany has a comparable range of openings to Russia, but a review of its early game advantages, priorities, and relationships narrows the German's focus.  
+
+Like France and England, Germany will have to take a stance with regard to Belgium's future. With France, Burgundy will likely be discussed. With Russia, Sweden and the Baltic.
+
+
+
+BEYOND 1902
+
+To be at the helm of Germany is an exciting treat for most keen diplomats. You begin the game with the all important center: Munich. Routes to strong mid-game position are several, through Scandinavia, across the North Sea to England, and even into the heart of France. Keep the East balanced long enough and when you turn your sights in that direction, the remaining powers may not be able to stop your advance.
+
+
+FREDERICO’S CHOICE
+
+One of Frederico's favorite continuations of the Danish Blitzkrieg was the Jutland Gambit:
+
+F Den-SKA  
+A Kie-Den  
+A Ruh-Hol  
+
+This gives Germany two builds (likely F Kie and A Mun) and a good game in either Scandinavia or in tandem with the French against England.
+
+
+
+## Italy
+
+Perhaps the most difficult for new players, Italy has risen significantly in status, both in results collected from our network of gamemasters throughout Europe, and in my own heart. Frederico shared my enthusiasm.  
+
+1901
+
+More than any other power, it matters little how Italy wants to start the game. Italy's strength is its strategic influence, its ability to tilt the game in various directions, its implicit threat to do so.  
+
+On that fateful evening in Paris where I played my first and only face-to-face game with Frederico, he was playing the Italian pieces. He played a seemingly quiet opening. It actually seemed he was at odds with Austria. Indeed, he ordered A Ven - Tri in Spring 1901 (bounced by Austria's A Vie - Tri) and followed up with A Ven - Tyr in Fall 1901. 
+
+I was the Austrian. After that initial poke, we were able to arrange a rather effective partnership for much of the game. He afforded a fleet to assist against Turkey, but otherwise spent his early and mid-game efforts against France. We worked together so well that I was even made to pass an army through Venice to get a tempo against France in 1904. 
+
+Unfortunately for me, he coordinated a two-front stab against me to hamper my otherwise solid growth: he stabbed me himself and persuaded the German, who had all but dismantled England and Russia, to thrust against my eastern flank. In the relative anarchy that followed, I was unable to reason with the German that his efforts would only see Frederico benefit. In the end, he saw the reason, but it was too late. Frederico had achieved his solo victory by 1914.  
+
+In his triumph, Frederico demonstrated all the hallmarks of the Italian diplomat, exercising strategic influence in his negotiations whilst showcasing a clinical understanding of naval logistics, including, in the final push, efficient deployment of armies to the western and eastern edges of his position by well-placed fleets throughout the Mediterranean. A thing, as it was, of beauty. I will not soon, if ever, forget it.
+
+
+BEYOND 1902
+
+For Italy, nearly all of the game of Diplomacy lies beyond 1902. To impatiently flail for unplanned centers may prompt a coalition against you. To ask for more than your fair share in an early game collaboration could mark you as greedy. To launch headfirst into a forlorn, lazy Lepanto, a shrug on your shoulders, should likewise be avoided.  
+
+Instead, do what Frederico did best: Charm your neighbors; strike an alliance with Austria if you can; stay onside with France (until the right moment); and find a path to a fifth center whilst maintaining strategic leverage.  
+
+"The rest of the board hinges so much on what Italy does," said Frederico, taking a drag of his cigarillo post-victory, "why would you waste such power?" 
+
+
+FREDERICO’S CHOICE
+
+"Any opening which sees me decimate the Austrian immediately--in short games--or else ally with him for an extended time."  
+
+
+## Russia
+
+I enjoy playing Russia almost as much as Frederico.  
+
+Why? The Russian must stay as busy as any diplomat in the early years. To begin with, he is arguably playing as two separate powers of two centers each. Opponents, though, will not cease to remind him he has four units at his disposal, or five or six after 1901. But even a six-center Russia is not overwhelmingly strong after 1901 and will have much to do. 
+
+While discussing with Mr. Barbosa Russia's ability to build fleets on both sides of the primary stalemate line (from Saint Petersburg to Spain), our conversation often led back to the merits of scoring systems and the merits of each Great Power within them. From our observation, Russia may not perform quite as well as expected in non-timebound draw-based systems, but would perform quite well in time bound sum-of-square, dominance, or solo-based scoring measures.  
+
+When I did, I too was quite pleased to draw Russia, knowing if I maintained good relationships with at least a couple of my neighbors that I'd be able to prepare myself for fast growth and a possible solo.
+
+
+1901
+
+"Request Sweden with the overture of friendship." This was all Frederico would recommend me prior to my first game as Russia. It soon became clear that I could ask for Sweden and explain to Germany that the build would be used in the South. He, naturally, didn't need me meddling with him with something like F Swe - Bal and by allowing me into Sweden, I'd be happy to refrain from the Baltic...until later. 
+
+As for Rumania, I struggled to find a plan that worked as smoothly as the German-Russian arrangement.
+
+Except in rare situations where Austria desired to combine against Bulgaria in Fall 1901, I preferred not to open with F Sev - Rum (this allowed Turkey into BLA). Instead, my default became to play F Sev - BLA while suggesting the Turk open F Ank - Con. "You can always fight later," said Frederico of this approach, "but at least there is the possibility of Russo-Turkish cooperation." Seldom have I found Turks very willing to play this way without also opening to Armenia as a hedge, but it is worth a shot.  
+
+The lovely thing about Russia's numerous openings is that many of them may be transposed into several strong continuations, no matter your Spring diplomacy.
+
+Where you eventually build in Winter 1901 could even further keep options open for 1902 and beyond. 
+
+
+BEYOND 1902
+
+The Tsar's game can be quite strong even without a clear early game ally. If one does find direct cooperation, Russia can secure either a foothold in Scandinavia, the Balkans, or Turkey, entering the mid-game with 7-9 centers and everything to play for. Because Russia can build armies and fleets on both sides of the primary stalemate line, routes to a large draw or a solo are numerous.  
+
+
+FREDERICO’S CHOICE
+
+The lively Frederico prefers the Ukraine System, trusting his diplomacy in the north can put him in a playable position in both theaters.  
+
+And if diplomacy fails, tactical maneuvers can keep the Russian viable with even a single northern fleet.  
+
+I cannot help but share an example of this shared in a letter Frederico sent me on the eve of 1905. He described a position wherein England and France had weakened Germany and where he as Russia held a single northern fleet, desperately trying to stay relevant in Scandinavia.  
+
+Imagine this scenario, where England proceeds to attempt to capture the Russian owned and occupied Sweden. Denmark is unoccupied.
+
+Spring 1906  
+
+England:  
+F Nor - Swe  
+F SKA S Nor - Swe  
+
+The Russian F Swe is dislodged.
+
+Russian retreat:  
+BAL  
+
+
+Why not retreat to Den? Retreating to BAL is more defensive, in one sense. It also still borders four supply centers: Swe, Den, Kie, Ber. Also, Den cannot be held, because England will still have 2 fleets adjacent and simply order: 
+
+F SKA - Den  
+F Swe S SKA - Den  
+
+Fall 1906    
+
+The English player decides his best approach is to self-standoff in Den. This way he will prevent either the German or Russian from claiming it, as well as retaining his just-captured Sweden.  
+
+England:  
+F Swe - Den  
+F SKA - Den  
+
+Russia, anticipating this, orders:  
+F BAL S Swe - Den  
+
+Ah ha! Russia's support is successful, helping the English fleet in Sweden out of his owned supply center, retaining control of it.  
+
+"Had my maneuver not succeeded, I may have had to disband the northern fleet," never a option Frederico was fond of as it significantly reduces winning 
+
+
+chances, "as my southern game was quite lively indeed."   
+
+Frederico lived for poetic moves such as this one. While he did not shy away from sending letters of games not going his way, the ratio of letters with a triumphant tone to a defeated tenor was impressive indeed. And every time I examined the reports and inserts of positions Frederico sent, I found a new way of optimistically approaching my own games. 
+
+
+## Turkey
+
+Frederico, preferring to be at the absolute center of influencing play, and soaking up attention like sunbathers in Marseille, didn't much care for Turkey. He described it thus: "Bland at best."  
+
+And yet, despite this disdain, I witnessed Mr. Barbosa work his magic toward big draws and decisive victories.  
+
+Take heed as the "quiet corner position" to which Frederico turned down his nose is certainly nothing to sneeze at. 
+
+1901
+
+With concentrated home centers in Con, Ank, and Smy, the Turkish homeland is relatively easy to defend for even sustained sieges. A four-center Turk with, say, a fleet in BLA, a fleet in AEG, and armies in Bul and Con is as formidable a rock as any four-center power.  
+
+"But you ought not merely aim to survive," Mr. Barbosa reminded me in my earliest games in control of the Turkish units. "Where is your fifth center coming from?" (This, conveniently, is a useful question for Italy.) Will your fifth center be Greece, Rumania, Sevastopol? Which should it be? When is the best moment to annex it?  
+
+Mr. Barbosa played four openings with Turkey.
+
+
+BEYOND 1902
+
+Turkey's game can be quite strong with only 5 or 6 centers. With fleets in AEG and BLA, Turkey can mobilize armies into southern Russia or the Balkans via convoy as well as defend comfortably. To win, Turkey will likely have to break through into Saint Petersburg or perhaps Portugal.  
+
+
+FREDERICO’S CHOICE
+
+"Armenia, with army or fleet, if over-used by yours truly, is altogether under-utilized by the general population."  
 
 
 ## Balkan Gambit (Austria)

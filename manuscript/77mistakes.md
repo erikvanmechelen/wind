@@ -162,7 +162,7 @@ Start by asking yourself what you want.
 
 Stories are persuasive. Selectively use them to make an emotionally persuasive case during your negotiations.
 
-## No. 56 Pretend Not to Suffer
+## No. 56 Pretending Not to Suffer
 
 Diplomacy makes you suffer! (That's part of why we like it.)
 
@@ -206,7 +206,7 @@ Every turn the board changes. As in baseball, the count changes ever so slightly
 
 Look for tension in your opponents demeanor and in the board position.
 
-## No. 49 Say Thank You
+## No. 49 Not Saying Thank You
 
 When a player speaks with you, you might thank him. He doesn't have to speak with you. 
 
@@ -215,6 +215,13 @@ If a player does you a favor or shares a piece of information, acknowledge it. T
 ## No. 48 Opening to the English Channel
 
 If you are going to get bounced.
+
+Under few circumstances should your orders put you at serious risk of ruin. If you learn through the grapevine that England is planning to order F Lon - ENG (with 100% probability), then I see little alternative (if negotiation is over) to ordering F Bre - ENG.  
+
+A possible exception to this thinking is while playing as Austria. Of course, versions of the Hedgehog ensure survival till at least 1902, not all continuations give Austria the appropriate leverage or position to combine with neighbors in mutually profitable ways. To provide an example, it may be necessary to risk an Italian stab in order to position units to work with or against either of Russia or Turkey. If the Italian incorrectly stabs, then it was going to be a difficult game anyway. 
+
+If the Italian wants to stab, why not invite him in under the 'Modern Borders' theory, wherein Italy assumes ownership of Trieste for the early game.
+
 
 ## No. 47 Not Having a Plan
 
@@ -359,9 +366,15 @@ If you enjoy playing online, I expect you'll enjoy face to face.
 
 See you at the next tournament.
 
-## No. 23 
+## No. 23 Accepting Conventions
 
-..
+It used to be that Germany often bounced Russia in Sweden. Lately, Germany more often welcomes the Russian fleet to the Swedish port. 
+
+Accepting any or all conventions without thinking through them is to possibly miss strategic opportunities that others have incorrectly accepted, or, that with a minor adjustment, may work quite well in the current zeitgeist.
+
+For my money, the English Channel ought to be occupied about 5% more of the time, and Armenia perhaps as much as 20%. 
+
+How Greece changes hands is not given enough consideration.
 
 ## No. 22 Waiving Builds on Purpose
 
@@ -421,6 +434,11 @@ To signal you have a deal.
 
 Each relationship is different and will be shifting throughout the game. You might argue that bringing the same approach to each relationship keeps things simple. And that's fine. But if you can adjust the way you speak to and with each player based on the power dynamics, that will likely be better.
 
+With relationships come expectations, modes of communication, and the sharing of information. Even in contentious or outright antagonistic relationships, expectations are set, communication occurs (however little), and information passes back and forth.  
+
+As you react to developments around you and sew the seeds of your own flourishing, the creation and management of relationships is paramount to early game success.  
+
+
 ## No. 9 Missing the Morning Shower
 
 If you smell neutral to good, that's great. If you don't, that could be a distraction. 
@@ -449,9 +467,9 @@ Where some describe this as an ongoing narrative--so and so likes to attack so a
 
 Certainly there are what might be called metagame elements which may enter a game. If you know a player's tendencies, it would be foolish to ignore those, however oversimplifying your model of an opponent might work against you. Better to constantly refresh your models as new information comes in.
 
-## No. 4 Stabbing Weakly
+## No. 4 Stabbing Weakly or Indecisively
 
-If you stab, make it count.
+If you stab, make it count. Don't go in half-baked. Make people remember your name.
 
 ## No. 3 Not Understanding Realpolitik
 

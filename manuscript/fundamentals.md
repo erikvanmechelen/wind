@@ -3,7 +3,7 @@
 
 My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games face-to-face or online, or simply hoping to step up your game to an intermediate level, you've come to the right place!
 
-For the basics, have a read of [Richard Sharp's _The Game of Diplomacy_](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book.
+For the basics, have a read of [Richard Sharp's _The Game of Diplomacy_](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
 
 If you're reading a digital version of this book, the following may serve you: 
 
@@ -50,7 +50,7 @@ But to give too much away--and believe me, I'm trying--is also double-edged, bec
 
 This gives you a chance to try new things, like ordering `A Lvp H` (!) for diplomatic reasons. 
 
-See my ongoing Livestreaming Diplomacy show, [Diplomacy Daily](https://twitch.tv/decision_), on Twitch. Or watch the highlights on [my YouTube channel](https://www.youtube.com/channel/UCHd8aV8-hVwWafem1tiXClw?view_as=subscriber).
+See my occasional Livestreaming Diplomacy show, [Diplomacy Daily](https://twitch.tv/decision_), on Twitch. Or watch the highlights on [my YouTube channel](https://www.youtube.com/channel/UCHd8aV8-hVwWafem1tiXClw?view_as=subscriber).
 
 I'll bounce you soon! 
 

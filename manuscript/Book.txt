@@ -1,3 +1,4 @@
+barbosa.md
 fundamentals.md
 nogamelike.md
 boardtop.md
