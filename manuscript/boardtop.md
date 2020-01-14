@@ -28,7 +28,7 @@ For at least the next two years, I'm planning to attend the World Diplomacy Cham
 
 I began this section by introducing the setting of a recently played Top Board held by the Minnesota Diplomacy Club. 
 
-<img src="/images/mndc2019top.spring1904.jpg" alt="A decent position with Austria in 1904" title="Austrian Position" />
+![A decent Austrian position in 1904](images/mndc2019top.spring1904.jpg)
 
 In a game that seemed to start with a Western Triple, this should have been a good game for Austria. I can laugh at that now despite the disappointment. So as not to make you wait overlong I'll share briefly how the game went for me. (Rest assured we will return to it throughout the book.)
 
