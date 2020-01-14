@@ -1,4 +1,4 @@
-## How to Win a Top Board (650 w)
+# How to Win a Top Board
 
 On the Top Board of the 2019 Season of the Minnesota Diplomacy Club, as Austria I was eliminated first, alongside my early-game ally Italy, in 1905.
 

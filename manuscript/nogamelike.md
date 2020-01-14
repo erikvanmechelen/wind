@@ -1,5 +1,5 @@
 
-## Why There is Still No Game like Diplomacy (350w)
+# Why There is Still No Game like Diplomacy (350w)
 
 Richard Sharp said it well when he remarked that to win in Diplomacy you have to be a complete cad. I for one had to look up the definition: A man who behaves dishonorably, especially toward women. 
 

@@ -1,4 +1,4 @@
-## How to Win Player of the Year (and How to Be a Good Loser)
+# How to Win Player of the Year (and How to Be a Good Loser)
 
 The Minnesota Diplomacy Club is a very early stage club. Even though I'm pleased with having over 30 players compete across 18 games in 2019, I'd love to see even more players and better quality of play. 
 

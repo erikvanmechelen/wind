@@ -24,6 +24,8 @@ How are you planning to enter and exit conversations so as to meet your own goal
 
 Even when you are certain of your moves this season and those moves are tactical guarantees, you would do well not to waste the opportunity to gain information about other players' plans and to influence their decisions in favor of your own medium term goals. 
 
+Diplomacy has definitely helped me deal with difficult conversations. Having a policy of emebracing equal time with each player will force you to have those difficult but potentially profitable conversations in fortuitous moments. 
+
 ## No. 75 Speaking to Players in the Same Order
 
 Have you spoken with the same player or players in the same order each round? 

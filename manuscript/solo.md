@@ -1,4 +1,4 @@
-## The Conditions for Soloing
+# The Conditions for Soloing
 
 Someone else is writing this, so I thought I'd also write it...
 
