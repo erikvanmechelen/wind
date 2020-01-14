@@ -28,13 +28,13 @@ While there certainly is variance in a game like Diplomacy, I don't think that i
 
 I began this section by introducing the setting of a recently played Top Board held by the Minnesota Diplomacy Club. 
 
-[A decent opening position with Austria](mndc2019top.spring1904.jpg)
+[A decent opening position with Austria](/images/mndc2019top.spring1904.jpg)
 
 So as not to make you wait overlong I'll share briefly how the game went for me. (Rest assured we will return to it throughout the book.)
 
-Having established a good AI, France--part of at least an EF if not a Western Triple--came south. Even though this was my moment to work against Russia, I not only took back Trieste (and went for Venice too) but waited too long to attack Russia, who beat me to the punch. 
+Having established a good AI, France--part of at least an EF if not a Western Triple--came south. Even though this was my moment to work against Russia, I not only took back Trieste (and went for Venice too but waited too long to attack Russia, who beat me to the punch. In the above image you can see a few candidate move-sets like A Tyr - Vie, A Vie - Gal, A Tri - Bud, A Ser - Rum, A Bul S Ser - Rum, F Gre S Bul. 
 
-As Italy--Eric Silverman--quickly pointed out to me, I could have let he and France--Jake Langenfeld--remain locked up in the Med for several years whilst making my single-front Russian campaign. As it was, I calculated that I could take back those builds and make my overrunning of Russia that much more decisive before Germany could get England off his back or France's fleets could make inroads into the Balkans. This calculation missed on several points, the key one being that Italy did not pull the units most advantageous to my board-topping. (I would have played this moment similarly to Eric, under the logic that one cannot allow a player to do this to you without consequences, even if in the moment, Eric's chances to win might have involved staying onside with me despite my stab.)
+As Italy--Eric Silverman--quickly pointed out to me, I could have let he and France--Jake Langenfeld--remain locked up in the Med for several years whilst making my single-front Russian campaign. As it was, I calculated that I could take back Triest (in Fall 1903) and make my overrunning of Russia that much more decisive before Germany could get England off his back or France's fleets could make inroads into the Balkans. This calculation missed on several points, the key one being that Italy did not pull the units most advantageous to my board-topping. (I would have played this moment similarly to Eric, under the logic that one cannot allow a player to do this to you without consequences, even if in the moment, Eric's chances to win might have involved staying onside with me despite my stab.)
 
 Overall, I made the wrong play and soon after the wrong read with regard to the remaining player with whom I was good terms, Zachary Moore's Russia. By this point I was clearly again a threat, albeit on only six centers--Austria can grow fast--and Zachary put enough doubt in my mind so as to not defend against his stab...and did so a year before I was setting up my own. Well played to Zach!
 
