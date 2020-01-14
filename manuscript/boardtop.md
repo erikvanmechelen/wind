@@ -24,11 +24,11 @@ First off, tournaments are my favorite version of the game of Diplomacy. Most Di
 
 While there certainly is variance in a game like Diplomacy, I don't think that its a fluke to see certain players succeed time and again at top tournaments.
 
-(For at least the next two years, I'm planning to attend the World Diplomacy Championships, at Carnage in Vermont in 2020 and in Bangkok, Thailand in 2021. And although I might be eliminated simply for daring to think I could write a book on Diplomacy, I greatly look forward to the experience. I've never been to Vermont and every time I'm in Thailand I have a good time.)
+For at least the next two years, I'm planning to attend the World Diplomacy Championships, at Carnage in Vermont in 2020 and in Bangkok, Thailand in 2021. And although I might be eliminated simply for daring to think I could write a book on Diplomacy, I greatly look forward to the experience. I've never been to Vermont and every time I'm in Thailand I have a good time.
 
 I began this section by introducing the setting of a recently played Top Board held by the Minnesota Diplomacy Club. 
 
-![A decent 1904 position with Austria](./images/mndc2019top.spring1904.jpg)
+<img src="/images/mndc2019top.spring1904.jpg" alt="A decent position with Austria in 1904" title="Austrian Position" />
 
 In a game that seemed to start with a Western Triple, this should have been a good game for Austria. I can laugh at that now despite the disappointment. So as not to make you wait overlong I'll share briefly how the game went for me. (Rest assured we will return to it throughout the book.)
 

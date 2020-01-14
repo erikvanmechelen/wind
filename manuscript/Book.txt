@@ -7,3 +7,4 @@ playeroftheyear.md
 solo.md
 77mistakes.md
 28openings.md
+endgame.md
