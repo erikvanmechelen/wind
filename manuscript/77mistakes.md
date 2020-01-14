@@ -138,6 +138,12 @@ You must Listen.
 
 To your gut. To your opponents. To the whispers that slip into your eavesdropping toolkit. 
 
+If you're at all like me, you love to talk. You love to share what you think. 
+
+But sometimes, you can't gain as much information by talking as by listening. (Of course, even when talking, you should be listening to your opponent's nonverbals.)
+
+For details on how to listen, try Carl Rogers.
+
 ## No. 60 Inviting a Brutal Stab
 
 Leaving yourself too wide open for a stab will unnecessarily invite it. 
@@ -168,13 +174,15 @@ Diplomacy makes you suffer! (That's part of why we like it.)
 
 For me, certain kinds of suffering are good for us. Embracing, instead of ignoring, this suffering will make you miss chances to learn.
 
-## No. 55 Don't Run from the Truth
+## No. 55 Running from the Truth
 
 The board position, the relationships, the fact that you have three centers when you once had eight.  
 
 Play the board as it lies. 
 
 Play the position as it is.
+
+Don't run from the truth.
 
 ## No. 54 Ignoring Asks
 
@@ -277,9 +285,11 @@ Often, information is exchanged right at the end of the clock.
 
 Pay attention to this!
 
-## No. 39 Failing to Negotiate
+## No. 39 Oversharing
 
-Stand tall and negotiate.
+There is a benefit of sharing your specific moves and showing other players your reliability. 
+
+However, this can be used against you, so be wary of doing this at key junctures. 
 
 ## No. 38 Judging People
 
@@ -291,9 +301,9 @@ What I mean is, if you are judging someone's character in real-time as the game 
 
 The human body communicates.
 
-## No. 36 Open to Silesia
+## No. 36 Opening to Silesia
 
-As Germany or Russia. Unless there are circumstances. 
+As either Germany or Russia. Unless there are circumstances. 
 
 In a tournament game I learned Russia was opening to Silesia, because he was close on tournament points to the German player. That made complete sense. Otherwise, a Russian in Silesia doesn't accomplish much besides giving France and England a good early game.
 
@@ -339,6 +349,8 @@ Unless as a feint.
 ## No. 29 Staying Hydrated and Fed
 
 Especially in tournaments. 
+
+There are exceptions. I once witnessed Zachary Moore order a cheeseburger pre-game and leave it untouched until he board-topped. 
 
 ## No. 28 Pretending to Be Someone You're Not
 

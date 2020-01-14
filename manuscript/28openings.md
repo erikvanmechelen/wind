@@ -44,7 +44,7 @@ FREDERICO’S CHOICE
 Some variation of the Balkan Gambit. Frederico was a master at making the right assessment with his Viennan army and an absolute enchanter in persuading his neighbors not to attack him too soon.  
 
 
-## England
+## ENGLAND
 
 I drew England in my first game. This was some time before Mr. Barbosa and I had shored up what the map of the game should look like, and how it looks at the time of this writing. Redrawing territory boundaries and adjacencies changed quite a lot, it turned out. Even then, fleets held a certain sway.   
 
@@ -73,7 +73,7 @@ The poet was at home with England and versed in its nuances. As such, his openin
 Sometimes Frederico even ordered A Lvp H (!). This to show the Russian (and everyone else) that he would not be convoying to Norway in Fall 1901. These again were the poetic nuances that Frederico would demonstrate just when you thought he'd given up his rebelliousness to the strict rule-governed approaches of Mr. Barbosa.  
 
 
-## France
+## FRANCE
 
 When discussing strategy, Frederico never pretended to know something he didn't know anything about. When he made a claim for a particular opening, it came from experience, or at least from a fellow player he respected. When he argued for a specific continuation, it was almost exclusively from experience. Frederico, as I, had a fondness for France, even if it didn't showcase the dynamism or challenge of other powers, in particular the central powers and Russia.  
 
@@ -102,7 +102,7 @@ In one game, I faired quite well by sending my southern army first to Piedmont a
 All in all, Frederico and I agreed that France provided plentiful paths to good draws. It almost always had play in the middle game and can build fleets in the Atlantic and Mediterranean. Its home centers' distance from key central territories sometimes made solos elusive against strong opponents willing to establish stalemate lines. Nevertheless, a comfortable and enjoyable Great Power to command.  
 
 
-## Germany
+## GERMANY
 
 
 A central power with a lot to do and a lot to play for. With neighbors in France, England, Russia, Italy, and Austria, the German diplomat will be speaking with all other players for most of the game.  
@@ -136,7 +136,7 @@ This gives Germany two builds (likely F Kie and A Mun) and a good game in either
 
 
 
-## Italy
+## ITALY
 
 Perhaps the most difficult for new players, Italy has risen significantly in status, both in results collected from our network of gamemasters throughout Europe, and in my own heart. Frederico shared my enthusiasm.  
 
@@ -167,7 +167,7 @@ FREDERICO’S CHOICE
 "Any opening which sees me decimate the Austrian immediately--in short games--or else ally with him for an extended time."  
 
 
-## Russia
+## RUSSIA
 
 I enjoy playing Russia almost as much as Frederico.  
 
@@ -244,7 +244,7 @@ chances, "as my southern game was quite lively indeed."
 Frederico lived for poetic moves such as this one. While he did not shy away from sending letters of games not going his way, the ratio of letters with a triumphant tone to a defeated tenor was impressive indeed. And every time I examined the reports and inserts of positions Frederico sent, I found a new way of optimistically approaching my own games. 
 
 
-## Turkey
+## TURKEY
 
 Frederico, preferring to be at the absolute center of influencing play, and soaking up attention like sunbathers in Marseille, didn't much care for Turkey. He described it thus: "Bland at best."  
 

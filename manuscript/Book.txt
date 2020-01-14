@@ -1,5 +1,6 @@
 barbosa.md
 fundamentals.md
+notation.md
 nogamelike.md
 boardtop.md
 playeroftheyear.md

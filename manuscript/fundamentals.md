@@ -1,4 +1,3 @@
-
 # The Fundamentals
 
 My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games face-to-face or online, or simply hoping to step up your game to an intermediate level, you've come to the right place!
@@ -27,7 +26,7 @@ If you're starting a club or local game, try these Diplomacy Games Journals to k
 
 To practice online, [Watch this video](https://youtu.be/mgWste5NwNY) on how to get started on [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app&hl=en_US) or open up a sandbox at [backstabbr.com](backstabbr.com).
 
-Prefer to watch high-level players in action, look no further than [Chris Martin's full video recap](https://www.youtube.com/watch?v=zPlUuvIV7ws&list=PLbwng27eI0e3O9rIFcXp_Bvr97TNgAsQw) of the World Diplomacy Championships 2016.
+Prefer to watch high-level players in action, look no further than [Chris Martin's full video recap](https://www.youtube.com/watch?v=zPlUuvIV7ws&list=PLbwng27eI0e3O9rIFcXp_Bvr97TNgAsQw) of the World Diplomacy Championships 2016. I'm waiting, and I think I'll be waiting for awhile, to see a better combination of reporting, commentary, and analysis on a top-level Diplomacy tournament Top Board.
 
 ## The Nature of Diplomacy
 
@@ -37,14 +36,14 @@ He who can influence his opponents to collaborate at the right moments and misdi
 
 ## Who am I?
 
-I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and earned Player of the Year in the inaugural 2019 season for best overall results. 
+I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the [MN Diplomacy Club](https://mndiplomacyclub.com) and earned Player of the Year in the inaugural 2019 season for best overall results. 
 
 I expect to play in the next two World Diplomacy Championships, Carnage in 2020 and Thailand 2021.
 
 
 ## Stealing Your Destiny
 
-Diplomacy is far, far more than ensuring you get your orders in on time. 
+Winning in Diplomacy is far, far more than ensuring you get your orders written accurately and in the box on time. 
 
 But to give too much away--and believe me, I'm trying--is also double-edged, because it takes away some of the fun of making your own mistakes and discovering new ways that the old guard didn't see. 
 
@@ -54,5 +53,5 @@ See my occasional Livestreaming Diplomacy show, [Diplomacy Daily](https://twitch
 
 I'll bounce you soon! 
 
-Best regards,
+Best regards and happy reading,
 Erik van Mechelen 

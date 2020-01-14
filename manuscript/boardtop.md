@@ -2,7 +2,7 @@
 
 On the Top Board of the 2019 Season of the Minnesota Diplomacy Club, as Austria I was eliminated first, alongside my early-game ally Italy, in 1905.
 
-We had executed well Andrew Goff's 'Modern Borders' concept wherein Italy assumes ownership of Trieste, in 1901. Most of the board thought we were at odds, which worked well in my view given I perceived there to be a target on my back given I'd finished first in the season's standings--earning the coveted Player of the Year title--and had played ruthlessly to attain that position in the season's latter games. (It would be a tragedy to not only allow me to win Player of the Year, but also to steal the Best Diplomacy Player in Minnesota--congratulations to Zachary Moore for this achievement!)
+We had executed well Andrew Goff's 'Modern Borders' concept wherein Italy assumes ownership of Trieste, in 1901. Most of the board thought we were at odds, which worked well in my view given I perceived there to be a target on my back given I'd finished first in the season's standings--earning the coveted Player of the Year title--and had played ruthlessly to attain that position in the season's November and December games. (It would be a tragedy to not only allow me to win Player of the Year, but also to steal the Best Diplomacy Player in Minnesota--congratulations to Zachary Moore for this achievement!)
 
 With Italy in my home center Trieste, I was not, at least, to be an early threat. My suspicion is that this seemingly unfortunate situation for me as Austria was welcomed in that it satisfied an element of revenge that at least two players wished upon me. The subject of Letting Players Have Their Revenge will be studied later in this book. What's more, this game was used a Top Board format, so there would be only one winner, so to over-focus on my demise would be a mistake.
 
@@ -20,15 +20,15 @@ So far, the Minnesota Diplomacy Club uses sum-of-squares. However, I'm for exper
 
 A word on tournaments. I've only played in one tournament--WeaselMoot XIII, where I placed 5th in a small field--and as such my comments on tournaments are preliminary. 
 
-First off, tournaments are my favorite version of the game of Diplomacy. Most Diplomacy games are frankly too short and don't allow the majesty of the game's design to develop. The strategic nuances of the mid-game are the aces of Diplomacy's deck. Even end-games, rarely reached with all players fully engaged, can be, to use a millenial term, super interesting. Furthermore, multiple grind-it-out games showcase mental fortitude and stamina, strategic thinking and execution on multiple levels, and let's be honest, overall mastery. 
+First off, tournaments are my favorite version of the game of Diplomacy. Most Diplomacy games are frankly too short and don't allow the majesty of the game's design to develop sufficiently. The strategic nuances of the mid-game are the aces of Diplomacy's deck. Even end-games, rarely reached with all players fully engaged, can be, to use a millenial term, super interesting. Furthermore, multiple grind-it-out games showcase mental fortitude and stamina, strategic thinking and execution on multiple levels, and let's be honest, overall mastery. 
 
 While there certainly is variance in a game like Diplomacy, I don't think that its a fluke to see certain players succeed time and again at top tournaments.
 
-(For at least the next two years, I'm planning to attend the World Diplomacy Championships, at Carnage in Vermont in 2020 and in Bangkok, Thailand in 2021. And although I might be eliminated simply for daring to think I could write a book on Diplomacy, I greatly look forward to the experience. I've never been to Vermont and every time I'm in Thailand I have a good time.)(650w)
+(For at least the next two years, I'm planning to attend the World Diplomacy Championships, at Carnage in Vermont in 2020 and in Bangkok, Thailand in 2021. And although I might be eliminated simply for daring to think I could write a book on Diplomacy, I greatly look forward to the experience. I've never been to Vermont and every time I'm in Thailand I have a good time.)
 
 I began this section by introducing the setting of a recently played Top Board held by the Minnesota Diplomacy Club. 
 
--Paste image of the game, in Spring 1904.-
+[A decent opening position with Austria](mndc2019top.spring1904.jpg)
 
 So as not to make you wait overlong I'll share briefly how the game went for me. (Rest assured we will return to it throughout the book.)
 
