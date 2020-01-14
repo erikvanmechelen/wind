@@ -2,6 +2,6 @@ fundamentals.md
 nogamelike.md
 boardtop.md
 playeroftheyear.md
-acceptrevenge.md
+77mistakes.md
 solo.md
-openings.md
+28openings.md

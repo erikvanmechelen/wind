@@ -130,43 +130,199 @@ Obviously, stabs are part of the game. It doesn't mean they don't hurt. Acknowle
 
 Since cooperation through supports and support-cutting is critical tactically, sometimes you have to commit to a move even without tactical guarantees. You can weigh your strategic and tactical options forever, but the clock doesn't care that your orders weren't in the box on time. Your possible allies will. 
 
-## No. 61
+## No. 61 Not Listening
+
+You must Listen.
+
+To your gut. To your opponents. To the whispers that slip into your eavesdropping toolkit. 
 
 ## No. 60 Inviting a Brutal Stab
 
-unless you want to 
+Leaving yourself too wide open for a stab will unnecessarily invite it. 
 
-## No. 59
+For example: Better to leave an army on the island as England as a deterrant if you are weary of France coming in the side door. 
 
-## No. 58
+## No. 59 Not Using a Received Stab to Your Advantage
 
-## No. 57
-## No. 56
-## No. 55
-## No. 54
-## No. 53
-## No. 52
-## No. 51
-## No. 50
-## No. 49
-## No. 48
-## No. 47
-## No. 46
-## No. 45
-## No. 44
-## No. 43
-## No. 42
-## No. 41
-## No. 40
-## No. 39
-## No. 38
-## No. 37
-## No. 36 Opening to Silesia? 
-## No. 35
-## No. 34
-## No. 33
-## No. 32
-## No. 31
+With the successful stab against you, the board situation has changed. As the receiver of that stab, you have some proportional influence on how players react. You get to tell your story about what happened, about your former ally's plans. You get to tell a new story about your plans. 
+
+To be stabbed is on balance not such a bad thing. In some moments, it is the best thing to happen to you. (Try inviting a harmless stab so as to galvanize neighbors in your favor.)
+
+## No. 58 Not Looking Inside Yourself
+
+What do you really want? Out of this tournament? From this game? From this conversation? 
+
+Go in with both an open mind and with a plan. 
+
+Start by asking yourself what you want. 
+
+## No. 57 Missing the Chance to Tell a Story
+
+Stories are persuasive. Selectively use them to make an emotionally persuasive case during your negotiations.
+
+## No. 56 Pretend Not to Suffer
+
+Diplomacy makes you suffer! (That's part of why we like it.)
+
+For me, certain kinds of suffering are good for us. Embracing, instead of ignoring, this suffering will make you miss chances to learn.
+
+## No. 55 Don't Run from the Truth
+
+The board position, the relationships, the fact that you have three centers when you once had eight.  
+
+Play the board as it lies. 
+
+Play the position as it is.
+
+## No. 54 Ignoring Asks
+
+Players will ask you for things. You should ask them for things, too. 
+
+Ignoring asks is a mistake in Diplomacy, because by working together with other players, you not only get the benefits of supports or support-cutting, but you also know that player's units are working in concert with you and not against you.
+
+If you ignore asks, your opponents will ask your other neighbors.
+
+## No. 53 Surprising People
+
+Being unpredictable has tradeoffs, but the ability to be unpredictable is an asset. 
+
+Show them something they haven't seen before. Even with a reputation as a solid, conservative player, the ability to pull off a move will give them something to talk about. 
+
+## No. 52 The Ability to Make Someone Believe You
+
+When you can say something in such a way as to make someone believe you, then in key moments you'll be able to secure a much-needed support from another player.
+
+## No. 51 Losing Your Self-Discipline
+
+Remember your preparation. Remember what you came here to do. 
+
+I'm not saying not to show your emotions. Our emotions interplay with our thinking. As humans we think with our bodies too. But losing oneself when trying to influence another is risky because, without a measure of self-discipline, greater variance in outcome results because it's harder to know what you will say, how you will say it, and how much you mean what you say. 
+
+## No. 50 Losing Track of the Board Position
+
+Every turn the board changes. As in baseball, the count changes ever so slightly. It's 2-2, then 3-2, full count, and even if the batter fouls off the next pitch, the pitcher has thrown one more pitch, is getting fatigued, and the tension remains nonetheless. 
+
+Look for tension in your opponents demeanor and in the board position.
+
+## No. 49 Say Thank You
+
+When a player speaks with you, you might thank him. He doesn't have to speak with you. 
+
+If a player does you a favor or shares a piece of information, acknowledge it. That's a small reward that will possibly encourage future behavior just like that. 
+
+## No. 48 Opening to the English Channel
+
+If you are going to get bounced.
+
+## No. 47 Not Having a Plan
+
+A stab too early in a game where you need to reach 18 is a big mistake. You need to map out your route to 18. If your stab gets you to 14 and you need 18, then that stab is BAD. 
+
+You might argue that having a bad plan is better than no plan. I might agree with you.
+
+## No. 46 Staying within Your Limits
+
+As soon as your mind is telling you are uncomfortable, you have the opportunity to do something great. 
+
+Maybe you've got yourself into an important conversation, to the moment of that conversation where you have a player across from you open to being persuaded. Well, it might be uncomfortable to say or ask what you are about to say or ask, but just realize you are on the cusp of doing something great for your position.
+
+Don't stay within your limits.
+
+## No. 45 Missing the Flow of the Game
+
+There are inflection points in games that you can often see coming. Now's the time for England to stab Germany. Now's the moment where France puts down a southern fleet. Now's the chance for Austria to nab Rumania.
+
+To miss these inflection points puts you at a disadvantage. 
+
+If you actually are the seed of these strategic imbalances through suggestive negotiation, then you stand to profit even more from your visionary forethought. Channel your inner Paul Atreides.
+
+## No. 44 Letting One Mistake Blow Up Your Game
+
+Fine, you made a mistake. What gives? Your neighbors are going to blunder eventually, too. Diplomacy extracts mistakes from we plebians. Stay cool, patient, and stay in the game. Don't embarrass yourself further by blundering a home center to your opponent in the very next move.
+
+## No. 43 Refusing to Consider Alternatives
+
+The permutations of possible moves each season are plenty. 
+
+The possible ways to approach a given conversation are numerous. 
+
+The paths to a good result are myriad.
+
+Consider your alternatives!
+
+## No. 42 Ignoring Country-Specific Dynamics
+
+Italy is not Austria is not Turkey is not Russia, even though each will be battling in the Balkans.
+
+## No. 41 Avoiding Risk
+
+You've gotta take risks in Diplomacy. Someone may use valuable information against you. But you might have to give it to make the case for the support order you need from a neighbor. That's the risk. 
+
+Tactically, there are few locks on the Diplomacy board. Even when something is a lock, you might consider taking the risk that your opponent believes you'll take the guarantee and do something even better with your spare unit.
+
+## No. 40 Not Eavesdropping
+
+In a face to face game, you are able to see who is talking to whom and with what body language.
+
+Often, information is exchanged right at the end of the clock. 
+
+Pay attention to this!
+
+## No. 39 Failing to Negotiate
+
+Stand tall and negotiate.
+
+## No. 38 Judging People
+
+I'm not talking about making Bayesian probability judgments. 
+
+What I mean is, if you are judging someone's character in real-time as the game progresses, you're probably wasting mental space.
+
+## No. 37 Missing Non-Verbals
+
+The human body communicates.
+
+## No. 36 Open to Silesia
+
+As Germany or Russia. Unless there are circumstances. 
+
+In a tournament game I learned Russia was opening to Silesia, because he was close on tournament points to the German player. That made complete sense. Otherwise, a Russian in Silesia doesn't accomplish much besides giving France and England a good early game.
+
+There are several other early game territories that share this character.
+
+I'm not saying you shouldn't ever open to Silesia or Livonia. Actually, making moves like these do allow you to own your narrative by how unusual they look to other players.
+
+
+## No. 35 Not Owning Your Narrative
+
+Sometimes Diplomacy is a battle of narratives. Narratives about you as a player, about how you play, about what your plans are. 
+
+Don't you want to own your own narrative? Fight back with persuasion when you sense these narrative-altering tactics being used against you.
+
+## No. 34 Not Gaining Knowledge About Stalemate Lines
+
+Especially relevant in the context of the scoring system at work in your particular game. Many of these endgame stalemate positions include Munich, but country by country, they vary. For example, England has a 7-unit stalemate position, and Turkey has a 6-center position.
+
+## No. 33 Forgetting to Share Your Concerns
+
+"I'm concerned about..." 
+
+Then be silent and let your ally explain the situation, or perhaps give you something.
+
+## No. 32 Refreshing Your Perspective
+
+Win, lose, or draw, take time to consider how Diplomacy as a hobby fits into your life. 
+
+Often, you'll come back to the game ready to collaborate, fight, and learn. 
+
+## No. 31 Failing to Adjust Player Reads
+
+Each move in the game gives you a chance to make predictions and check your predictions against your preconcieved models. 
+
+You must adjust your player reads where you were wrong.
+
+If a player is showing good will after previous eradicate or antagonistic play, give them a chance. Maybe.
+
 ## No. 30 Letting Yourself Get Angry
 
 Unless as a feint. 
@@ -175,32 +331,130 @@ Unless as a feint.
 
 Especially in tournaments. 
 
-## No. 28
-## No. 27
-## No. 26
-## No. 25
-## No. 24
-## No. 23
-## No. 22
-## No. 21
-## No. 20
-## No. 19
-## No. 18
-## No. 17
-## No. 16
-## No. 15
-## No. 14
-## No. 13
-## No. 12
-## No. 11
-## No. 10
-## No. 9
-## No. 8
-## No. 7
-## No. 6
-## No. 5
-## No. 4
-## No. 3
+## No. 28 Pretending to Be Someone You're Not
+
+Live within the skillset you have and the preparation you made for this game. 
+
+## No. 27 Coming Across as Less than Confident
+
+Confidence is crucial. Especially for powers like Italy, whose influence is greater in the future years than the immediate season. See Andrew Goff's 'Italian Renaissance' in DW#139. 
+
+## No. 26 Celebrating Too Much
+
+Not celebrating a good draw or victory can be perceived as a slap in your opponents' faces, so don't be shy. But going on to tell your opponents how silly they were to let you board top may not be the right metagame play.
+
+## No. 25 Being a Cad
+
+We're no longer living in Richard Sharp's 1970s Diplomacy landscape where arguably the best policy was to be cad. 
+
+Of course, you can't be a pushover, weak, or lacking confidence, but being a cad is a different dimension. To each their own but for me this is unnecessary and off-putting.
+
+## No. 24 Playing Too Much Online without Playing Face to Face
+
+Even though the hobby flourished in play-by-mail, you owe yourself to try face to face. 
+
+If you enjoy playing online, I expect you'll enjoy face to face. 
+
+See you at the next tournament.
+
+## No. 23 
+
+..
+
+## No. 22 Waiving Builds on Purpose
+
+This is hard to justify. If you're unsure whether it's better to build a fleet or an army, flip a coin. 
+
+## No. 21 Waiving Builds on Accident
+
+If you make this goof-up, consider assuring the other players you did so on purpose.
+
+## No. 20 Building Too Many Fleets or Too Many Armies
+
+Your builds are situationally based, taking into account your near-term strategy, relationships, potential for progress and desire to thwart threats.
+
+If possible, keep the right balance for your power's situational context. When you know your opponent's build in advance, you can make your build more confidently. How could you find that out?
+
+## No. 19 Not Throwing the Game...Sometimes
+
+If you don't throw the game sometimes, you can't credibly threat to do this.
+
+I don't like this, but the enemy has to know.
+
+## No. 18 Refusing to Give Gifts
+
+When you make a gesture, present it as a gift. Put an extravagant bow on it. Take the risk of receiving reciprocation for that gift.
+
+## No. 17 Not Shaking Hands
+
+At the end of a 6-hour game, it feels good to shake hands with other humans.
+
+## No. 16 Not Mixing in a Smile
+
+Smiles can diffuse a tense situation efficiently. When used with other persuasive techniques, simply smiling is very effective.
+
+## No. 15 Leaving Charm Behind
+
+There are other kinds of magic, too, but you ought to at least consider your charm. 
+
+## No. 14 Being Dislikable
+
+If you are likeable, you can get away with a lot. Players will want to work with you and they won't mind all that much when they lose versus you. 
+
+## No. 13 Not Joking
+
+In a recent game I ordered F Bul(sc) - Gre with zero chance of it succeeding. When the order was read, I asked, "Did that get in?" which brought chuckles around the table. 
+
+If you are the player who keeps thing light, people are more likely to enjoy playing with you, even if you are a ruthless tactician. 
+
+## No. 12 Refusing to Say Sorry
+
+You made a mistake. It's not weak to apologize.
+
+## No. 11 Not Writing Down Your Orders
+
+To signal you have a deal.
+
+## No. 10 Playing the Same Way with Each Player
+
+Each relationship is different and will be shifting throughout the game. You might argue that bringing the same approach to each relationship keeps things simple. And that's fine. But if you can adjust the way you speak to and with each player based on the power dynamics, that will likely be better.
+
+## No. 9 Missing the Morning Shower
+
+If you smell neutral to good, that's great. If you don't, that could be a distraction. 
+
+## No. 8 Deciding Not to Reflect on Your Game
+
+Write an After Action Report. This is where you assess your own play. The play of your opponents. Where did you go wrong? What did you do right? Did you make a mistake in your player reads? Your strategy? Your choice of early-game collaboration? Did you miss an important persuasive opportunity at an inflection point? Did you waive two builds in 1901? 
+
+## No. 7 Forgetting There Are 7 Players in the Game
+
+Your chances of winning are slim. Lower your expectations and raise your success.
+
+## No. 6 Not Embracing the Warrior Mentality
+
+We are lucky that we aren't on the battlefield, actual soldiers in war. In a tough mental game where you can actually influence your opponents, you must be the one who doesn't stand down.
+
+## No. 5 Let him have revenge...or he'll take his revenge later. 
+
+(Commonly understood among top heads-up online poker players...once your opponent is on monkey tilt, you must allow him to play a high-variance style...he may even win back a good chunk of his money, but if you try to protect your winnings by limping or min-raising the button and folding to his preflop three-bets, you will lose your customer. The customer is always right, especially if he is a monkey on a tilted shopping spree.)
+
+If the opponent wants revenge, let him FEEL like he's had his revenge. Otherwise, not yet satisfied, he will seek it indefinitely. 
+
+This is a problem I've noticed among some players in our club, although only because I first noticed seeds of it within my own psyche. You can bet I was confused to find it. In a situation where I should have been comfortable with a clearly mutually beneficial alliance, why was I stand-offish? Why wasn't I seeking easy gains? 
+
+Where some describe this as an ongoing narrative--so and so likes to attack so and so, or that's what that player does--my view is that such a "narrative" usually disguises some other deeper unresolved mechanic or model within a player's mind.
+
+Certainly there are what might be called metagame elements which may enter a game. If you know a player's tendencies, it would be foolish to ignore those, however oversimplifying your model of an opponent might work against you. Better to constantly refresh your models as new information comes in.
+
+## No. 4 Stabbing Weakly
+
+If you stab, make it count.
+
+## No. 3 Not Understanding Realpolitik
+
+Diplomacy is a game that is built on the theory of realpolitik and offensive realism. If you don't protect your security, your opponents will first take the territories adjacent your supply centers. Next season, they'll take your cookies.
+
 ## No. 2 Thinking You've Got it Figured Out
 
 The Game of Diplomacy has more secrets for you. If you're willing to look for them. 
