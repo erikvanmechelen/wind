@@ -2,7 +2,7 @@
 
 My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games face-to-face or online, or simply hoping to step up your game to an intermediate level, you've come to the right place!
 
-For the basics, have a read of [Richard Sharp's _The Game of Diplomacy_](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
+For the basics, have a read of Richard Sharp's [_The Game of Diplomacy_](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
 
 If you're reading a digital version of this book, the following may serve you: 
 
@@ -16,17 +16,11 @@ Looking for general strategy dating back decades? Try the [Diplomacy Archive](ht
 
 For openings, try 3x World Champion Andrew Goff's [Diplomacy Openings](https://diplomacyopenings.wordpress.com/).
 
-If you're starting a club or local game, try these Diplomacy Games Journals to keep new players organized and less overwhelmed:
-
-[Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372)
-
-[Diplomacy Games Journal - Germany Edition](https://www.amazon.com/dp/1704300924)
-
-[Diplomacy Games Journal - Italy Edition](https://www.amazon.com/dp/1704232562)
+If you're starting a club or local game, to keep new players organized and less overwhelmed, try handing out the [Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372), or [Germany Edition](https://www.amazon.com/dp/1704300924) or [Italy Edition](https://www.amazon.com/dp/1704232562).
 
 To practice online, [Watch this video](https://youtu.be/mgWste5NwNY) on how to get started on [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app&hl=en_US) or open up a sandbox at [backstabbr.com](backstabbr.com).
 
-Prefer to watch high-level players in action, look no further than [Chris Martin's full video recap](https://www.youtube.com/watch?v=zPlUuvIV7ws&list=PLbwng27eI0e3O9rIFcXp_Bvr97TNgAsQw) of the World Diplomacy Championships 2016. I'm waiting, and I think I'll be waiting for awhile, to see a better combination of reporting, commentary, and analysis on a top-level Diplomacy tournament Top Board.
+Prefer to watch high-level players in action, look no further than [Chris Martin's full video recap](https://www.youtube.com/watch?v=zPlUuvIV7ws&list=PLbwng27eI0e3O9rIFcXp_Bvr97TNgAsQw) of the World Diplomacy Championships 2016. I'm waiting, and I think I'll be waiting for awhile, to see a better combination of reporting, commentary, and analysis by a World Diplomacy Champion on a top-shelf Diplomacy tournament Top Board.  
 
 ## The Nature of Diplomacy
 
