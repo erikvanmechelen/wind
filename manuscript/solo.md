@@ -12,14 +12,16 @@ Hanging out with Ali and Zach at a local bar while checking the updates from the
 
 But solos should probably not be so frequent.  
 
-Below are simply my personal thoughts on conditions for soloing. 
+Below are simply my personal thoughts on possible conditions for soloing. Any of #2-6 might lean you toward attempting the solo.  
 
--A clear path to 18 centers (If you've achieved this, the below were likely already in play)
--Sufficient disorganization amongst the remaining players
--At least one player who does not mind that you solo (so as to punish other players or to reward your good play)
--At least one player who is capable of misordering or blundering the establishing of the stalemate lines
--Scoring conditions which incentivize certain players helping you to solo
--A player who enjoys assisting other players to board-tops and solos
+1-A clear path to 18 centers (If you've achieved this, the one or several of the below were likely already in play)
+2-Sufficient disorganization amongst the remaining players
+3-At least one player who does not mind that you solo (so as to punish other players or to reward your good play)
+4-At least one player who is capable of misordering or blundering the establishing of the stalemate lines
+5-Scoring conditions which incentivize certain players helping you to solo
+6-A player who enjoys assisting other players to board-tops and solos
+
+T> In [MNDC2020: Game 1](https://www.backstabbr.com/sandbox/MNDC2020-01/4537400859033600) I played as England. Do you think this could lead to a soloable position? Note that I built three fleets as I thought we would play one more year under time constraints, but the game was voted a draw before Spring 1909 negotiations. If I was playing for a solo, I may not have built three fleets. (The Minnesota Diplomacy Club currently plays under Sum-of-Squres scoring.)
 
 Please note: I don't believe I've ever soloed in a proper game of Diplomacy.
 

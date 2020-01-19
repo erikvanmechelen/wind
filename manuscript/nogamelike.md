@@ -7,7 +7,7 @@ I never knew or spoke with Sharp, so I won’t ever know the his tone or meaning
 
 (If someone answers your simple question of ‘Shall we bounce in the Black?’ with as wishy-washy an answer as the preceding paragraph, beware!)  
 
-Even half a decade after Sharp wrote those words, dishonorable-behaving men (and women) remain among us—in fact our hearts may be split!  
+Even half a century after Sharp wrote those words, dishonorable-behaving men (and women) remain among us—in fact our hearts may be split!  
 
 Thankfully, too, the great hobby of Diplomacy persists and is healthy as ever, from vibrant online play to club leagues to increasingly competitive tournament play.  
 
@@ -15,7 +15,7 @@ Even if all of us who adore, even love, the game as we do—traveling hundreds o
 
 If for no other reason, we should not forget how to lie nor how to deceive convincingly, lest the boundary between truth and lies dissolve completely as the boundary between chivalry and chauvinism.  
 
-I’ve said the above to underscore my leading explanation for why Diplomacy persists when the zeitgeist says it should not: While other games do include amoral or even immoral behavior, those games excuse players for it; Diplomacy does not hide from its nature, and instead says, “You are a human playing with and against other humans: Use what tools you have, as they will use tools against you.”  
+I’ve said the above to underscore my leading explanation for why Diplomacy persists when the zeitgeist says it should not: While other games seem to apologize for the behavior they promote, Diplomacy does not hide from its nature, and instead says, “You are a human playing with and against other humans: Use what tools you have, as they will use tools against you.”  
 
 The decision to forgive trespasses or to take revenge is up to each individual, and while notable, this decision is hardly the most important part of the game.  
 
