@@ -196,13 +196,13 @@ Ignoring asks is a mistake in Diplomacy, because by working together with other 
 
 If you ignore asks, your opponents will ask your other neighbors.
 
-## No. 53 Surprising People
+## No. 53 Not Surprising People
 
 Being unpredictable has tradeoffs, but the ability to be unpredictable is an asset. 
 
 Show them something they haven't seen before. Even with a reputation as a solid, conservative player, the ability to pull off a move will give them something to talk about. 
 
-## No. 52 The Ability to Make Someone Believe You
+## No. 52 The Inability to Make Someone Believe You
 
 When you can say something in such a way as to make someone believe you, then in key moments you'll be able to secure a much-needed support from another player.
 
@@ -224,9 +224,9 @@ When a player speaks with you, you might thank him. He doesn't have to speak wit
 
 If a player does you a favor or shares a piece of information, acknowledge it. That's a small reward that will possibly encourage future behavior just like that. 
 
-## No. 48 Opening to the English Channel
+## No. 48 Opening to the English Channel...
 
-If you are going to get bounced.
+...if you are going to get bounced.
 
 Under few circumstances should your orders put you at serious risk of ruin. If you learn through the grapevine that England is planning to order F Lon - ENG (with 100% probability), then I see little alternative (if negotiation is over) to ordering F Bre - ENG.  
 
@@ -350,7 +350,9 @@ If a player is showing good will after previous eradicate or antagonistic play, 
 
 Unless as a feint. 
 
-## No. 29 Staying Hydrated and Fed
+See [this clip from WDC 2016](https://youtu.be/ttRc2HjZH6E?t=714) for how to fake anger to avoid a conversation.
+
+## No. 29 Not Staying Hydrated and Fed
 
 Especially in tournaments. 
 

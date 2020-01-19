@@ -356,7 +356,7 @@ F Bre – MAO
 A Mar – Spa  
 A Par – Gas  
 
-A quiet opening I've gradually become inclined towards. If France is the target, a fleet build in Bre (or even in Mar) can transpose into a French convoy from, say, Gascony or Picardy, into Wales or Liverpool in 1902 or 1903.  
+A quiet opening I've gradually become inclined towards. If England is the target, a fleet build in Bre (or even in Mar) can transpose into a French convoy from, say, Gascony or Picardy, into Wales or Liverpool in 1902 or 1903.  
 
 Certainly, a French player can have a good game powering through into the German homeland with English naval help (or even an English army convoyed into Belgium or Holland), but the English/French combination is somewhat in favor of England as the game stretches on.  
 
@@ -445,7 +445,7 @@ The key move from the Italian perspective is in Fall 1901, where A Apu – Alb i
 F ADR C Apu – Alb
 In this example, Germany assists the Italian army in Piedmont into Marseille. Meanwhile, the Austrian convoys the Italian army in Apulia to Albania. A smashing start for the Center Powers.
 
-The strengths of thee Panther: it is used to establish a fast attack against France and Turkey. It builds trust between the Central Powers and the potential for early gains.
+The strengths of the Panther: it is used to establish a fast attack against France and Turkey. It builds trust between the Central Powers and the potential for early gains.
 
 England and Russia shouldn’t be unhappy to see the Central Powers working together, at least considering the fact that England could very well be glad for a weakened France, and Russia for a distressed Turkey. They may ask what they are getting from this Central Power arrangement, however.
 
@@ -494,7 +494,7 @@ F StP(sc) – BOT
 
 Looking for a fairly non-committal and defensive Russian approach? Look no further than the Southern System. If one so wishes, and the Austrian is inclined, the Bulgarian Gambit–attempting to dislodge the Turkish army in Bul–may be attempted in Fall 1901. However, the opening should not necessarily be seen as anti-Turkish. (See Strengths below.)
 
-If Russia expects to be bounced by Germany’s F Den – Swe in Sweden, then she may elect to secure Rumania immediately in Spring 1901. In cases where you are nearly 100% confident of German F Den – Swe, you might opt for F GOB – BAL instead.
+If Russia expects to be bounced by Germany’s F Den – Swe in Sweden, then she may elect to secure Rumania immediately in Spring 1901. In cases where you are nearly 100% confident of German F Den – Swe, you might opt for F GOB – BAL instead immediately in Fall 1901.
 
 With F Sev – Rum, A Mos – Sev will succeed and establish the ability to support F Rum to hold in Fall 1901.
 
@@ -640,7 +640,7 @@ The Crimean Crusher is another solid Turkish Diplomacy opening, giving diplomati
 
 With the Armenian army, immediate pressure is put on Sev. As a result, Russia is made to work harder to secure Rumania.
 
-Imagine the confident negotiations you might have with each of your neighbors. Russia pleads for Rumania; Austria offers to help keep Russia out of Rumania; Italy asks for support into Greece. Having involved Italy in persuading the Russian to leave Sev open for a build of his own, you might swindle your way into Sev from Arm. (The Russian opts for F BLA – Rum and A Ukr S BLA – Rum to secure Rum, and so gives up BLA to your F Ank – BLA.)
+Imagine the confident negotiations you might have with each of your neighbors. Russia pleads for Rumania; Austria offers to help keep Russia out of Rumania; Italy asks for support into Greece. Having involved Italy in persuading the Russian to leave Sev open for a build of his own, you might swindle your way into Sev from Arm come Fall 1901. (The Russian opts for F Sev – Rum and A Ukr S Sev – Rum to secure Rum, and so gives up BLA to your F Ank – BLA.)
 
 It is a dream start, 2 builds from Bul and Sev, all too common for a diplomat like yourself. Build a fleet and an army and carry on into a steady mid-game and eventually stab Austria for your solo.
 
@@ -652,7 +652,7 @@ A Con – Bul
 A Smy – Con
 F Ank – BLA
 
-This opening picks up the neutral supply center Bul (just as all the following will), and A Smy – Con means Con will be able to support Bul in the fall (even if Russia and Austria aim a supported attack against it). You will have your build.
+This opening picks up the neutral supply center Bul (just as all the preceding did), and A Smy – Con means Con will be able to support Bul in the fall (even if Russia and Austria aim a supported attack against it). You will have your build.
 
 Meanwhile, you likely bounce with Russia in BLA or take it yourself if Russia plays the Southern Opening, with F Sev – Rum.
 
