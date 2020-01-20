@@ -1,7 +1,10 @@
 barbosa.md
+environment.md
+scoring.md
 fundamentals.md
 notation.md
 nogamelike.md
+whichcountrybest.md
 boardtop.md
 playeroftheyear.md
 solo.md
