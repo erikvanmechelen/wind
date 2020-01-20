@@ -8,6 +8,7 @@ whichcountry.md
 boardtop.md
 playeroftheyear.md
 solo.md
+sailorstory.md
 77mistakes.md
 28openings.md
 endgame.md

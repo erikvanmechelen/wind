@@ -56,9 +56,50 @@ Other sites...this remains to be written.
 
 Notice certain players are banned for various reasons, such as for abandoning games without warning.
 
+### Bots
+
+They can help us...by filling abandoned spaces or missed orders. 
+
+Or we might soon be playing against them. I don't understand enough about coding syntax to create this myself (alone), but I could take a shot at developing the logic behind a decision. I would then test this by putting that logic up against human gunboat players. 
+
+Gaining supply centers. 
+Protecting against loss of supply centers. 
+Supporting and support-cutting. 
+Influencing moves / bluffs / feints. 
+Moves to gain high-leverage territories. (Black Sea, North Sea)
+
+Wait, you're thinking, couldn't this already be done? Hasn't it?
+
+It has. 
+
+LINK 
+
+I remember the glory days of online poker, which I in part got to participate in, which are behind us. Even during my peak, there were bots. But now, sites have to work hard to discover them and assure human players they are competing against humans, not bots. 
+
+I think it will take a little time yet for bots to figure out how to participate in a press-based online game, and a little longer yet to compete in face-to-face games. Just as MIT hopes its soccer robots will compete against the 2050 World Cup winners, maybe it will take as long to develop AI strong enough to carry on fast-paced verbal negotiations with six players and still come out on top of a Diplomacy contest.
+
+One great part about Diplomacy is that even if I reason that you are most likely lying about something, there remains a great amount of uncertainty toward your actual move set unless we have dissected one by one what each of your units will be doing, a pattern which is not often the norm in actual play because of how much information it gives up to your opponents (even if they are allies...perhaps especially if they are, so as to avoid a critical stab).
+
+A lie-detecting bot could figure out that I was lying about something, and proceed to ask me hard questions about my intentions or even my specific ideal moves, but if I'm not incentivized to talk about those things I can opt to deflect the questions or refuse to talk. As in any negotiation, continuing to talk about something the other party isn't interested in talking about usually doesn't get you very far. To my way of thinking, an AI will have to be as dexterous as a human, in terms of communication ability, to effectively dance, else it will be at a disadvantage in the information game. Maybe, though I cannot easily imagine it, the AI will usurp the human in its ability to communicate with and manipulate humans. At that point the AIs will stop reading this book, moving onto tomes about Diplomacy authored by fellow AIs. 
+
+
 ## Playing Face to Face
 
 To be written.
+
+Every player is a universe only partially visible. Any individual cannot even really know himself. 
+
+I used to respond, when player's asked what I would have done had they raised me on the river, with "I don't know, you didn't do it." The same idea holds in Diplomacy. What would I have said or done had you moved to Galicia in Spring 1901, violating our agreement? I don't know, you didn't do it. 
+
+To be written
+
+Transition into discussing Galicia...
+
+Judging a player's response, in advance, is valuable information indeed. If I know as Austria you are likely to get over my moving to Galicia as Russia, then there is justification strategically to arrange the DMZ and promptly violate it. Then I am in Galicia. In this case I have a valuable territory, a forgiving Austrian with whom I might still be able to work, leverage on Rumania, flexibility in the Black Sea, and bargaining chips with neighbors (who may like to see Austria pegged down a notch).
+
+If the reverse is true--an Austrian who will act vengefully over the broken DMZ--I may and probably would approach this differently. 
+
+Of course, a Russian early game is just fine without occupying Galicia in Spring 1901. So is this really the first thing that you and Austria should discuss? 
 
 ### Club Games
 
