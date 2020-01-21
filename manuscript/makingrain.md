@@ -1,4 +1,4 @@
-# How to Make it Rain
+# How to Make it Rain (TO BE WRITTEN)
 
 This chapter is about predicting your opponent's every move. About seeing what they will do before they even know they will do it themselves. About dominating tactically through a deep understanding of psychology and decision-making under uncertainty.
 
