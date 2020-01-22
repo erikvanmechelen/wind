@@ -1,3 +1,4 @@
+{sample: true}
 # Beautiful Imbalances
 
 I've made a few games with my brothers and so I enjoy analyzing a game from the designer's perspective. The more I play, look at, and think about Diplomacy, the more beautiful imbalances I see. Like a guitar, whose harmonics arise from imperfections, Diplomacy may be the wonder it is by virtue of these quirks in its design.  

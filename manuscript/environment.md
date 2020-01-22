@@ -1,4 +1,4 @@
-{sample=true}
+{sample: true}
 # Environment
 
 You've decided to join a game of Diplomacy. But where exactly are you taking your talents? Are you logging into Backstabbr, suiting up for your local gaming cafe, or packing a suitcase for an international tournament? 
