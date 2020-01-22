@@ -1,5 +1,7 @@
 barbosa.md
 environment.md
+imbalance.md
+coordination.md
 scoring.md
 fundamentals.md
 notation.md
