@@ -9,7 +9,7 @@ Perhaps the first decision is whether to play online or face to face. (I recomme
 
 Each has distinct advantages and disadvantages. The games will play differently.
 
-For my money, and more importantly, invest of time and attention, face to face is aces. It is both the most immersive and also carries the advantage of being time-bound...even if a game goes six hours, I will not have to correspond with players across days and weeks of time nor live with constant anxiety of missing an order due date or forgetting to build while on vacation away from my computer. The result after those six hours is the result, and I can live with a draw, a sweet victory, or the numerous blunders that led to my defeat.  
+For my money, and more importantly, for the investment of time and attention, face to face is aces. It is both the most immersive and also carries the advantage of being time-bound...even if a game goes six hours, I will not have to correspond with players across days and weeks of time nor live with constant anxiety of missing an order due date or forgetting to build while on vacation away from my computer. The result after those six hours is the result, and I can live with a draw, a sweet victory, or the numerous blunders that led to my defeat.  
 
 For reasons not clear to me, in the only other long-form book on Diplomacy, [_The Game of Diplomacy_](https://diplomacy-archive.com/god), Richard Sharp describes his distaste for face-to-face play. I personally find it the most challenging, engaging, and immersive form of the game. 
 
