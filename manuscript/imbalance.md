@@ -30,42 +30,46 @@ Notice the relative position of each neutral supply center to each Great Power's
 
 Let's take them one by one. 
 
-*Norway*: Immediately adjacent to Saint Petersburg but a natural neutral for England. 
-*Holland*: Usually Germany's but also adjacent the North Sea.
-*Denmark*: Usually Germany's but also adjacent the North Sea and Sweden in 1902 on.
-*Sweden*: Either empty with a German bounce (A Den - Swe) or Russia's, adjacent to English-owned Norway and German-owned *Denmark* in 1902 on.
-*Belgium*: Could stay neutral in 1901 or go to any of France, Germany, or England.
-*Spain*: France's, and quite safe from neighbors.
-*Portugal*: France's, relatively safe as well.
-*Tunis*: Italy's, with reasonable medium-term security. 
-*Serbia*: Austria's, adjacent to five other supply centers in the Balkans.
-*Greece*: Usually Austria's, but occasionally Italy's or Turkey's, after 1901 its ownership is in question.
-*Rumania*: Most often Russia's, at least in 1901. 
-*Bulgaria*: As close to a sure thing for Turkey as Spain is for France.
+**Norway**: Immediately adjacent to Saint Petersburg but a natural neutral for England. 
+**Holland**: Usually Germany's but also adjacent the North Sea.
+**Denmark**: Usually Germany's but also adjacent the North Sea and Sweden in 1902 on.
+**Sweden**: Either empty with a German bounce (A Den - Swe) or Russia's, adjacent to English-owned Norway and German-owned *Denmark* in 1902 on.
+**Belgium**: Could stay neutral in 1901 or go to any of France, Germany, or England.
+**Spain**: France's, and quite safe from neighbors.
+**Portugal**: France's, relatively safe as well.
+**Tunis**: Italy's, with reasonable medium-term security. 
+**Serbia**: Austria's, adjacent to five other supply centers in the Balkans.
+**Greece**: Usually Austria's, but occasionally Italy's or Turkey's, after 1901 its ownership is in question.
+**Rumania**: Most often Russia's, at least in 1901. 
+**Bulgaria**: As close to a sure thing for Turkey as Spain is for France.
 
 Obviously, the neutrals seem necessary to gather so as to build additional units. For some great powers, capturing them does require risk, the risk of pulling your units out of useful defensive positions. The most obvious being Austrian F Tri - Alb on its way to Greece. If Austria can pull this off, win Greece and not lose Tri, he will likely build two and also have his F Gre in a useful position to work with either of Italy or Turkey. 
 
 For France, gathering the Iberian neutrals could leave Burgundy exposed. It's rare to see a Russian A War - Sil in Spring 1901, but a German positioning for Den, Hol, and perhaps Bel is severely weakened by A War - Sil. (The German would likely bounce Russian F GOB - Swe if Russia opens with A War - Sil.) In the German case, trying for additional leverage on Belgium with A Mun - Ruh does leave a question for Munich if France opens to Burgundy. 
 
-This is a partial list of risks. You can probably see a few more with minimal difficulty. 
+This is a partial list of risks. You can probably see a few more with minimal difficulty. For a statistical analysis of which powers overall position improves by taking ownership of specific centers in 1901 or 1902, see [this article by Josh Burton](http://uk.diplom.org/pouch/Zine/S2007R/Burton/statistician2.htm).  
 
 If you've succeeded in gaining the neutral/s, you are rewarded with a build! This solves part of the vulnerability you created in moving toward the neutrals and away from your home centers. However, once the neutrals are all captured, the game is suddenly a zero-sum affair. Lose a center, lose a unit. 
 
-Because of the game design, we now have several imbalances which cause tension. Norway, owned by England unless he has been Sealioned (Fall 1901: F Den to NTH, A StP - Nwy, and even worse if France has taken the English Channel), is adjacent Russia's home center of Saint Petersburg. How will Russia and England ever relieve this tension?  
+Because of the game design, we now have several imbalances which cause tension. Norway, owned by England unless he has been Sea Lioned (Fall 1901: F Den to NTH, A StP - Nwy, and even worse if France has taken the English Channel), is adjacent Russia's home center of Saint Petersburg. How will Russia and England ever relieve this tension?  
 
-Germany's ownership of Holland and Denmark, in conjunction with England's F NTH, will forever be cause for diplomacy. 
+Germany's ownership of Holland and Denmark, in conjunction with England's F NTH, will long be cause for diplomacy between those two players. 
 
-Austria's gain in Serbia seems safe enough, but Greece is less stable. Rumania, if held by Russia, is potentially under fire from Bud, Ser, and Bul. Or is Turkey's just-gained Bulgaria at risk to a combined Austrian-Russian effort? 
+Austria's gain in Serbia seems safe enough, but Greece is less stable. Rumania, if held by Russia, is potentially under fire from Bud, Ser, and Bul. Or is Turkey's just-gained Bulgaria at risk to a combined Austrian-Russian effort? In [Josh Burton's statistical analysis](http://uk.diplom.org/pouch/Zine/S2007R/Burton/statistician2.htm), there is evidence that Russia's game improves dramatically with ownership of Sweden, and reasonably with ownership of Rumania, but less so.
 
-I also now invite you to consider the relative positions of the neutral supply centers (and groupings of neutrals) that you and your neighbors own to common stalemate lines. The board is _not_ setup in such a way that 7 players sit in a grand circle around supply centers evenly distributed at the circle's center. If that were the case, more games would end with 5-, 6-, or even 7-way draws. 
+I also now invite you to consider the relative positions of the neutral supply centers (and groupings of neutrals) that you and your neighbors own to common stalemate lines. The board is _not_ setup in such a way that 7 players sit in a grand circle around supply centers evenly distributed at the circle's center. If that were the case, more games would end with 5-, 6-, or even 7-way draws, as players would be able to protect their centers around the edges while dipping their toes into the center without risking their home dots.  
 
-Tyrolia is not a supply center. Nor is Silesia. 
+You can try this thought experiment yourself, by assigning supply centers to territories that are currently not centers. 
+
+As it is, Tyrolia is not a supply center. Nor is Silesia. 
 
 Instead, with the exception of Spain, neutral supply centers are positioned adjacent to but not usually directly on common stalemate lines. This means that for a stalemate line to be properly established, a player must put his neutral supply centers at risk. More commonly, a player will aim to create a mini-pseudo-stalemate line--blocking a neighbor's attack--which puts his owned centers at risk from other neighbors.
 
 This simple imbalance innate to the Diplomacy board texture keeps players jostling for position from game start to game end. 
 
 Furthermore, so long as Turkey or England are in the game, there are players in control of units that are _behind_ common stalemate lines. The potential for imbalances to be exploited remains. Whilst a volatile or savvy Turkey or England remain in the game, a stalemate position cannot be established. Nor should, from a Turkish or English strategic perspective, this be allowed. 
+
+_For a deeper statistical study of relative imbalances relating to solo victories, see this article, ['The Statistician: Solo Victories'](http://uk.diplom.org/pouch/Zine/F2007R/Burton/statistician3.htm) by Josh Burton._
 
 
 ## Why Italy and France Don't Fight
