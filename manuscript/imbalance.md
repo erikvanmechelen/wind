@@ -1,7 +1,9 @@
 {sample: true}
 # Beautiful Imbalances
 
-I've made a few games with my brothers and so I enjoy analyzing a game from the designer's perspective. The more I play, look at, and think about Diplomacy, the more beautiful imbalances I see. Like a guitar, whose harmonics arise from imperfections, Diplomacy may be the wonder it is by virtue of these quirks in its design.  
+I've made a few games with my brothers and so I enjoy analyzing a game from the designer's perspective. Participating in local IGDA events or design events like Protospiel has taught me more about how to approach games critically. 
+
+The more I play, look at, and think about Diplomacy, the more beautiful imbalances I see. Like a guitar, whose harmonics arise from imperfections, Diplomacy may be the wonder it is by virtue of these quirks in its design.  
 
 It might seem odd to begin the book this way, but as the writer I want to provide the reader something fresh, so that even if you only complete this chapter and no more, you might have come to see something differently, and your time will have been well spent. 
 
@@ -28,18 +30,18 @@ Notice the relative position of each neutral supply center to each Great Power's
 
 Let's take them one by one. 
 
-Norway: Immediately adjacent to Saint Petersburg but a natural neutral for England. 
-Holland: Usually Germany's but also adjacent the North Sea.
-Denmark: Usually Germany's but also adjacent the North Sea and Sweden in 1902 on.
-Sweden: Either empty with a German bounce (A Den - Swe) or Russia's, adjacent to English-owned Norway and German-owned Denmark in 1902 on.
-Belgium: Could stay neutral in 1901 or go to any of France, Germany, or England.
-Spain: France's, and quite safe from neighbors.
-Portugal: France's, relatively safe as well.
-Tunis: Italy's, with reasonable medium-term security. 
-Serbia: Austria's, adjacent to five other supply centers in the Balkans.
-Greece: Usually Austria's, but occasionally Italy's or Turkey's, after 1901 its ownership is in question.
-Rumania: Most often Russia's, at least in 1901. 
-Bulgaria: As close to a sure thing for Turkey as Spain is for France.
+*Norway*: Immediately adjacent to Saint Petersburg but a natural neutral for England. 
+*Holland*: Usually Germany's but also adjacent the North Sea.
+*Denmark*: Usually Germany's but also adjacent the North Sea and Sweden in 1902 on.
+*Sweden*: Either empty with a German bounce (A Den - Swe) or Russia's, adjacent to English-owned Norway and German-owned *Denmark* in 1902 on.
+*Belgium*: Could stay neutral in 1901 or go to any of France, Germany, or England.
+*Spain*: France's, and quite safe from neighbors.
+*Portugal*: France's, relatively safe as well.
+*Tunis*: Italy's, with reasonable medium-term security. 
+*Serbia*: Austria's, adjacent to five other supply centers in the Balkans.
+*Greece*: Usually Austria's, but occasionally Italy's or Turkey's, after 1901 its ownership is in question.
+*Rumania*: Most often Russia's, at least in 1901. 
+*Bulgaria*: As close to a sure thing for Turkey as Spain is for France.
 
 Obviously, the neutrals seem necessary to gather so as to build additional units. For some great powers, capturing them does require risk, the risk of pulling your units out of useful defensive positions. The most obvious being Austrian F Tri - Alb on its way to Greece. If Austria can pull this off, win Greece and not lose Tri, he will likely build two and also have his F Gre in a useful position to work with either of Italy or Turkey. 
 

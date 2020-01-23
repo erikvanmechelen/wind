@@ -3,17 +3,17 @@
 
 You've decided to join a game of Diplomacy. But where exactly are you taking your talents? Are you logging into Backstabbr, suiting up for your local gaming cafe, or packing a suitcase for an international tournament? 
 
-Choosing where to play Diplomay and with whom is an important decision. 
+Choosing where to play Diplomacy and with whom is an important decision. 
 
 Perhaps the first decision is whether to play online or face to face. (I recommend both.)
 
 Each has distinct advantages and disadvantages. The games will play differently.
 
-For my money, and more importantly, for the investment of time and attention, face to face is aces. It is both the most immersive and also carries the advantage of being time-bound...even if a game goes six hours, I will not have to correspond with players across days and weeks of time nor live with constant anxiety of missing an order due date or forgetting to build while on vacation away from my computer. The result after those six hours is the result, and I can live with a draw, a sweet victory, or the numerous blunders that led to my defeat.  
+For my money, and more importantly, for the investment of time and attention, face to face is aces. It is both the most immersive and also carries the advantage of being time-bound...even if a game goes six hours, I will not have to correspond with players across days and weeks of time nor live with constant anxiety of missing an order due date or forgetting to build while on vacation away from my computer. In face to face, the result after those six hours is the result, and I can live with a draw, a sweet victory, or the numerous blunders that led to my defeat.  
 
-For reasons not clear to me, in the only other long-form book on Diplomacy, [_The Game of Diplomacy_](https://diplomacy-archive.com/god), Richard Sharp describes his distaste for face-to-face play. I personally find it the most challenging, engaging, and immersive form of the game. 
+For reasons not clear to me, in the only other long-form book on Diplomacy, [_The Game of Diplomacy_](https://diplomacy-archive.com/god), Richard Sharp describes his distaste for face-to-face play. (He prefers postal.) I personally find face to face the most challenging, engaging, and immersive form of the game. 
 
-But wait!, you contend, Surely gathering seven players is no easy feat! In fact, because it isn't easy, you convince yourself, it must be...impossible!
+But wait!, you contend, surely gathering seven players is no easy feat! In fact, because it isn't easy, you convince yourself, it must be...impossible!
 
 You would be surprised--I was!--how quickly a game can be arranged...and pretty soon you might even have club as we did in high school--imagine our teacher's surprise when she would intercept our passed notes during class!--or as we do now, a decade and a half later, in Minnesota! (Chicago's Windy City Weasels have a similar story, becoming a premier environment for face-to-face play across all of the United States these past 15+ years...and it all started with a casual pub game.)
 
