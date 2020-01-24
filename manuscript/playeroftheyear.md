@@ -38,27 +38,55 @@ Since you may not be privy to everything another player was thinking, or indeed 
 
 ### Seeking feedback 
 
+One of my favorite things to do is ask for feedback from other players post-game.
+
+If you acknowledge a mistake, a player may even be more forthcoming about ways you could have played better. 
+
+Be sure to be clear about what feedback you're seeking: Do you want feedback on your negotiation style, your strategy, your tactical decision?
+
 ### Creating relationships outside the game
+
+Any time you can improve a relationship outside the game, the better for your culture, and maybe the better for future games with a given player.
 
 ### Laughing together with people about blunders 
 
+There is nothing like laughter to get over a big mistake. 
+
 ### Seeing people as humans, not merely opponents in the just-finished game
+
+Can you separate the game from the post-game? 
 
 ### Injecting humor into what is sometimes an overly serious event
 
+Because of how intense and immersive a game of Diplomacy is, especially when played face to face, the skill of injecting humor is a powerful one. 
+
 ### Taking perspective 
+
+Try on different perches and lenses.
 
 ### Admitting mistakes 
 
+The first step to learning and growth. 
+
 ### Congratulating winners and providing consolation to those who didn't 
+
+The cocktail of human emotions is available during and after a game. Showing appreciation and consoloation where appropriate is encouraged. 
 
 ### Teaching
 
+When another person is open to it, consider offering your opinion on their play. Pay attention to how they take it. If they are curious and willing to learn, you might offer more. If they are defensive, maybe now isn't the time.
+
 ### Being taught
+
+Of course, if you're open to being taught, Diplomacy can teach you many things. So can other players.
 
 ### Taking ownership (for your play, for your actions, for your behavior)
 
+If you said something you didn't mean, it's not weak to apologize. It's also okay to explain your thinking about an in-game situation...not everyone will want to ask you why you did this move or that, but sensing when a player wants to have that story told is a good sense to have.
+
 ### Having the quality of being fun to play with (if you can and if you want to be)
+
+Each person can do this in their own way. If you're making the game fun for others, people will be happy to see you and happy to invite you to more games. 
 
 ### Being a good loser.  
 
