@@ -1,3 +1,4 @@
+howyouthink.md
 barbosa.md
 environment.md
 imbalance.md
