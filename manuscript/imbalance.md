@@ -69,7 +69,7 @@ This simple imbalance innate to the Diplomacy board texture keeps players jostli
 
 Furthermore, so long as Turkey or England are in the game, there are players in control of units that are _behind_ common stalemate lines. The potential for imbalances to be exploited remains. Whilst a volatile or savvy Turkey or England remain in the game, a stalemate position cannot be established. Nor should, from a Turkish or English strategic perspective, this be allowed. 
 
-_For a deeper statistical study of relative imbalances relating to solo victories, see this article, ['The Statistician: Solo Victories'](http://uk.diplom.org/pouch/Zine/F2007R/Burton/statistician3.htm) by Josh Burton._
+*For a deeper statistical study of relative imbalances relating to solo victories, see this article, ['The Statistician: Solo Victories'](http://uk.diplom.org/pouch/Zine/F2007R/Burton/statistician3.htm) by Josh Burton.*
 
 
 ## Why Italy and France Don't Fight
