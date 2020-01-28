@@ -132,6 +132,10 @@ With England you can afford to play a quiet opening so long as it keeps a frisky
 
 My own taste is to feel out the Frenchman's own theory on the matter before making a decision. As with all Diplomacy decisions, it is situational.  
 
+Don't be afraid of getting creative with England to gain leverage. For example, what does F NTH - SKA in Fall 1901 gain you? Under what conditions could you get away with this? 
+
+![F NTH - SKA in Fall 1901](/resources/FNTH-SKA.png)
+
 BEYOND 1902
 
 Perhaps Englands' best choice for a partnership is with Germany. Even if Germany has the better of the arrangement, England's positioning of a mere two fleets--in the North Sea and the English Channel / Skagerrak--can in a flash transpose into armies in the Low Countries or Denmark. Once England has expanded his reach, fleets in NTH and BAL can quickly carry troops for a chance to break through the stalemate line into Warsaw or Moscow.   

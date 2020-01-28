@@ -1,5 +1,5 @@
 {sample: true}
-## Also by the Author 
+# Also by the Author 
 
 Before Diplomacy was taken up by the famous American game designer, before it became widespread, before it was ever played by post or online, this game of cunning, deceit, and grand strategy was played in the taverns and cabarets and tunnels from Paris to Saint Petersburg by commonfolk of Europe. These are conversations on opening strategy between an aspirant and a true master of the form, one Frederico Barbosa.
 
@@ -14,3 +14,5 @@ While I may be a lowly plebeian, I have eavesdropped on diplomats in my travels 
 ...
 
 Read a sample of [_*Conversations with Barbosa*_](https://leanpub.com/diplomacy) 
+
+![Diplomacy: Conversations with Barbosa](/resources/barbosa.png)
