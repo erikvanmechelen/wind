@@ -97,7 +97,7 @@ If the reverse is true--an Austrian who will act vengefully over the broken DMZ-
 
 Of course, a Russian early game is just fine without occupying Galicia in Spring 1901. So is this really the first thing that you and Austria should discuss? 
 
-This is a snippet of what I might be thinking in approaching a conversation--as Russia--with a _single_ opposing Austrian player. Of course, I haven't even gone into a discussion of how what other information I have from around the board and other players might adjust how I approach that conversation with Austria. 
+This is a snippet of what I might be thinking in approaching a conversation--as Russia--with a *single* opposing Austrian player. Of course, I haven't even gone into a discussion of how what other information I have from around the board and other players might adjust how I approach that conversation with Austria. 
 
 Once in the conversation, I will need to listen, make decisions about where to take the conversation, respond effectively, disguise my intentions where necessary, ask questions, encourage, influence, and otherwise manage my time so I can speak with other players around the board. 
 

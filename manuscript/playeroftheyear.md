@@ -90,6 +90,6 @@ Each person can do this in their own way. If you're making the game fun for othe
 
 ### Being a good loser.  
 
-What does being a good loser ultimately mean? It amounts to the game of Diplomacy, that is, the _event_ of a game, being more than a zero-sum experience. Something happened, and all participants walk away _better_ for that experience, win, lose, or draw.  
+What does being a good loser ultimately mean? It amounts to the game of Diplomacy, that is, the *event* of a game, being more than a zero-sum experience. Something happened, and all participants walk away *better* for that experience, win, lose, or draw.  
 
 After one of our games, I spoke with Minnesota club member George Linkert, who read an early draft of this book. We spoke for fifteen minutes, face to face. It was a pleasant discussion. He talked about his work with people living with disability, about teaching music, and also about why he plays Diplomacy... I thank him for reminding me about the humanity of Diplomacy, and games in general, for reminding why we engage ourselves in these rituals time and again.  

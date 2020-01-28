@@ -23,7 +23,6 @@ With such an opening setup, Russia is also stronger because Turkey cannot even t
 
 My guess is that Calhamer and his playtesters considered and probably even explored situations like the above. It was probably the right decision to keep England and Russia as the two powers with two fleets to start the game.
 
-
 ## Relative Position of Neutrals
 
 Notice the relative position of each neutral supply center to each Great Power's home centers. Now consider those same neutral supply centers relative to stalemate lines. By Mark Berch, [here is one of my favorite articles](http://www.diplomacy-archive.com/resources/strategy/articles/stalemate_lines.htm) on stalemate lines.

@@ -1,3 +1,4 @@
+acknowledgments.md
 howyouthink.md
 barbosa.md
 environment.md

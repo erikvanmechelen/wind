@@ -3,7 +3,7 @@
 
 My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games face-to-face or online, or simply hoping to step up your game to an intermediate level, you've come to the right place!
 
-For the basics, have a read of Richard Sharp's [_The Game of Diplomacy_](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
+For the basics, have a skim or full read of Richard Sharp's [*The Game of Diplomacy*](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
 
 If you're reading a digital version of this book, the following may serve you: 
 
@@ -11,11 +11,11 @@ Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy
 
 [This page on WikiBooks](https://en.wikibooks.org/wiki/Diplomacy/Rules) is useful too.
 
-Brandon Fogel's discussion of [the Janus Scoring System](https://github.com/erikvanmechelen/diplomacybook/blob/master/2019-07%20-%20Systems%20of%20Value%20in%20Diplomacy%20(Janus)%20v3%20(1).pdf) provides a brief history of scoring systems and advocates for the upcoming Janus approach.
+Brandon Fogel's discussion of [the Tribute Scoring System](https://github.com/erikvanmechelen/diplomacybook/blob/master/2019-07%20-%20Systems%20of%20Value%20in%20Diplomacy%20(Janus)%20v3%20(1).pdf) provides a brief history of scoring systems and advocates for the upcoming Janus approach. (Scoring system was previously called Janus.)
 
 Looking for general strategy dating back decades? Try the [Diplomacy Archive](http://www.diplomacy-archive.com/home.htm).
 
-For openings, try 3x World Champion Andrew Goff's [Diplomacy Openings](https://diplomacyopenings.wordpress.com/).
+For a highly readable discussion of openings, try 3x World Champion Andrew Goff's [Diplomacy Openings](https://diplomacyopenings.wordpress.com/).
 
 If you're starting a club or local game, to keep new players organized and less overwhelmed, try handing out the [Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372), or [Germany Edition](https://www.amazon.com/dp/1704300924) or [Italy Edition](https://www.amazon.com/dp/1704232562).
 
@@ -33,8 +33,7 @@ He who can influence his opponents to collaborate at the right moments and misdi
 
 I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the [MN Diplomacy Club](https://mndiplomacyclub.com) and earned Player of the Year in the inaugural 2019 season for best overall results. 
 
-I expect to play in the next two World Diplomacy Championships, Carnage in 2020 and Thailand 2021.
-
+I expect to play in the next World Diplomacy Championships, Carnage in 2020.
 
 ## Stealing Your Destiny
 

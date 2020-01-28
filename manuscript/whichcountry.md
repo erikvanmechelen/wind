@@ -1,6 +1,8 @@
 # Which Great Power is Best?
 
-To be written. 
+(To be written.) 
+
+Summary:
 
 Cite statistical study on draws and soloing. 
 

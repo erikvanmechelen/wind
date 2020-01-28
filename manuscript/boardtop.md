@@ -3,6 +3,8 @@
 
 On the Top Board of the 2019 Season of the Minnesota Diplomacy Club, as Austria I was eliminated first, alongside my early-game ally Italy, in 1906.
 
+![A decent Austrian position in 1904](resources/mndc2019top.spring1904.jpg)
+
 We had executed well Andrew Goff's 'Modern Borders' concept wherein Italy assumes ownership of Trieste, in 1901. Most of the board thought we were at odds, which worked well in my view given I perceived there to be a target on my back given I'd finished first in the season's standings--earning the coveted Player of the Year title--and had played ruthlessly to attain that position in the season's November and December games. (It would be a tragedy to not only allow me to win Player of the Year, but also to steal the Best Diplomacy Player in Minnesota--congratulations to Zachary Moore for this achievement!)
 
 With Italy in my home center Trieste, I was not, at least, to be an early threat. My suspicion is that this seemingly unfortunate situation for me as Austria was welcomed in that it satisfied an element of revenge that at least two players wished upon me. The subject of Letting Players Have Their Revenge will be studied later in this book. What's more, this game was played using a Top Board format, so there would be only one winner, so to over-focus on my demise would be a mistake.
