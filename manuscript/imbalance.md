@@ -71,6 +71,15 @@ Furthermore, so long as Turkey or England are in the game, there are players in 
 
 *For a deeper statistical study of relative imbalances relating to solo victories, see this article, ['The Statistician: Solo Victories'](http://uk.diplom.org/pouch/Zine/F2007R/Burton/statistician3.htm) by Josh Burton.*
 
+## Why Austrian A Bud - Rum (Mostly) Doesn't Work
+
+There are several openings which are game-theoretically weak, even accounting for special diplomatic considerations. Austrian A Bud - Rum would be one of those. 
+
+One way to stretch your Diplomacy muscles is to reason through why this is the case. In doing so, I actually found an edge case where A Bud - Rum *might* be reasonable, but I'll save that for the section on country-specific strategy. 
+
+Why it doesn't work becomes fairly obvious when you consider normal openings from Russian, Turkish, and Italian neighbors and the necessity of securing Serbia in Spring 1901. Doing so sometimes lets Austrian F Alb - Gre with support in Fall 1901.
+
+From there on, Serbia, a neutral supply center itself, is the fulcrum of five other supply centers. That Austrian army in Serbia will be doing a *lot* of work going forward in the Balkans. And I know many of you don't think this way, but that army will likely survive most of the game. Even if dislodged, it is a difficult army to disband until Austria's position is a 1- or 2-center disaster.
 
 ## Why Italy and France Don't Fight
 
