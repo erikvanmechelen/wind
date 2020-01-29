@@ -15,4 +15,6 @@ While I may be a lowly plebeian, I have eavesdropped on diplomats in my travels 
 
 Read a sample of [_*Conversations with Barbosa*_](https://leanpub.com/diplomacy) 
 
+The book you are reading now has much more to offer, however *Diplomacy: Conversations with Barbosa* is available as a paperback and a fun gift to young would-be Diplomacy players.
+
 ![Diplomacy: Conversations with Barbosa](/resources/barbosa.png)
