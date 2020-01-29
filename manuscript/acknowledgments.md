@@ -16,6 +16,8 @@ As can be discerned, he was also not incapable of soloing with Austria.
 
 It is also fun to see the beginning of Austrian-Italian theory in early articles like ['On Strengthening the Hand of Austria-Hungary'](http://www.dipwiki.com/index.php?title=On_Strengthening_the_hand_of_Austria-Hungary), describing possible AI combinations that have begun standard theory today.
 
-And of course this gem, in ['The Tactics of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Tactics_of_Diplomac) originally written in 1961.
+If only reading one of Calhamer's articles, I recommend highly ['The Invention of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Invention_of_Diplomacy), where Calhamer's instincts as a game designer are on full display.
+
+And of course this gem, written in 1961 in ['The Tactics of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Tactics_of_Diplomac) still holds true today:
 
 > In any case, diplomatic considerations can override the technical.
