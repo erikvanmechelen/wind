@@ -156,9 +156,13 @@ T> Look for these small opportunities to influence your opponents so that the we
 
 ## ENGLAND
 
-As England you begin the game with two fleets, in Edinburgh and London. One would be too few. Three, too many.  
+As England you begin the game with two fleets, in Edinburgh and London. One would be too few. Three, too many. As my friend and competitor Jake Langenfeld reiterates:
 
-1901
+> With England, you need to get armies on the mainland.
+
+Indeed, in the Minnesota Diplomacy Club's inaugural Championship match, we saw England's lack of armies fail to offer any defense to the expanding Russian pieces played by board-topper Zachary Moore.
+
+#### 1901
 
 With England you can afford to play a quiet opening so long as it keeps a frisky Frenchman out of the English Channel. "Leverage on Belgium is all," is a nice reply if you find yourself there and face an angry "Quoi!?".  
 
@@ -168,16 +172,20 @@ Don't be afraid of getting creative with England to gain leverage. For example, 
 
 ![F NTH - SKA in Fall 1901](/resources/FNTH-SKA.png)
 
-BEYOND 1902
+In MNDC2020 Game 01 I got away with F NTH - SKA which led to profitable discussions with both Germany and Russia in Fall 1901. (Russia had built in the south so could not pressure Norway immediately.) I ended up working with Germany who supported my F Nwy - Swe, dislodging Russia's fleet. 
+
+#### BEYOND 1902
 
 Perhaps Englands' best choice for a partnership is with Germany. Even if Germany has the better of the arrangement, England's positioning of a mere two fleets--in the North Sea and the English Channel / Skagerrak--can in a flash transpose into armies in the Low Countries or Denmark. Once England has expanded his reach, fleets in NTH and BAL can quickly carry troops for a chance to break through the stalemate line into Warsaw or Moscow.   
 
-ERIK’S CHOICE
+#### ERIK’S CHOICE
 
 I tend to play the most standard and common opening with fleets to NTH and NWG and the army based on the situation to Edi, Yor, or Wal.  
 
 
 ## The Splits (England)
+
+![The Splits with A Lvp - Wal](/resources/england-splits.png)
 
 F Edi – NWG  
 F Lon – ENG  
@@ -186,12 +194,13 @@ A Lvp – Yor/Edi/Wal
 Why not? Such an opening displays confidence in several ways.  
 
 The first: A confidence bordering on arrogance that the North Sea need not be occupied in 1901.  
-
 The second: To sail south into the English Channel without the backup of F Edi – NTH seems eclectic. It does serve a purpose, however. In the event the fleet bounces with French F Bre – ENG, England may order F Lon – NTH in Fall 1901 and open London for a build (which he will get from F NWG – Nor. (It must be said that the variety of tricks to be played against Germany are forfeited without F NTH.)  
 
 Meanwhile, what is done with the army is suggestive. A Lvp – Yor for flexibility. A Lvp – Wal to prepare for the possibility of a convoy to the European mainland. A Lvp – Edi for a convoy to Norway. These subtleties are not to be overlooked nor undersold.  
 
 ## Western (England)
+
+![The Western](/resources/england-western.png)
 
 F Edi – Cly  
 F Lon – ENG  
@@ -205,19 +214,25 @@ A second English army arrives on the mainland in 1902. Once France is done away 
 
 ## Southern (England)
 
+![Southern](/resources/england-southern.png)
+
 F Edi – NTH  
 F Lon – ENG  
 A Lvp – Yor/Wal  
 
-Occasionally to be used as a feint in a delayed English-French combination against Germany.  
+Occasionally to be used as a feint in a delayed English-French combination against Germany. With A Lvp - Wal, this is also a cheeky way to get the convoy into Norway whilst affecting Belgium or even taking it (with F ENG - Bel) as a compromise with either France or Germany.  
 
 ## Northern (England)
+
+![Northern](/resources/england-northern.png)
 
 F Edi – NWG  
 F Lon – NTH  
 A Lvp – Yor/Edi/Wal  
 
 Quiet and flexible, allowing supported moves or convoys into Norway, for starters. If the French is onside, England can seize Saint Petersburg by Fall 1902 without concerns of the Frenchman moving in the Irish side door.
+
+If one is very sure of France's F Bre - MAO, then A Lvp - Edi provides leverage for profitable negotiations with Russia. You might ask, "How can we work together in 1902 if I take Norway with F NWG - Nwy in lieu of convoying the army?" Unless Russia has the potential builds to make life difficult, the Bear may be inclined to assist you into Denmark at some point versus risking natural moves into Sweden or Saint Petersburg in 1902 or 1903.  
 
 The additional northern fleet has multiple other benefits, mentioned shortly in discussions from Russia’s perspective.
 
