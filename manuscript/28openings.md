@@ -14,7 +14,7 @@ I quite like playing Austria. As with the Germans, they are in the center of the
 
 With Austria, you can be a poet, a puppet master, and a symbol of power. Your armies can move swiftly and decisively. Don't play scared. Instead, be fearless. Understand what your armies can do in pairs or groups of three, and don't forget to use your starting fleet wisely!
 
-1901  
+### 1901  
 
 Many players with red worry over their survival. Instead, figure out with whom you can work. Any of your neighbors should be happy to work with you, at least in the short term. 
 
@@ -32,13 +32,17 @@ One edge case would be a reliable Turkish collaborator in a short, time-bound ga
 
 If you're sure Russia will play A War - Ukr and F Sev - BLA you can also go for A Vie - Gal and A Bud - Rum straight away in Spring 1901. Again, Turkey can be offered Serbia and you're best off keeping Italy onside as well so there isn't trouble in Trieste or with your F Alb - Gre.) 
 
-![Turkey into Serbia, with Italy deciding the AT looks dangerous](/resources/turkey-serbia.png)
+![Turkey into Serbia, with Italy deciding the AT looks dangerous](/resources/austria-turkey-serbia.png)
 
 In these scenarios, I'm unafraid of the apparently lopsided alliance with Turkey, understanding that if needed Italy can spare me a fleet or two to assist in bringing down the Turk once the Turk and I have crippled Russia. If Turkey is not inclined, I'm just as happy to work with the Russian. (The previous image could even be an arranged A Ven - Tri to lend Italy his fifth center while also staying the course with Turkey against Russia. Delicate Diplomacy needed!)
 
+T> #### Why would Italy attack?
+T>
+T> After seeing Austria's Spring 1901 moves, why might Italy decide to take Trieste? As Austria, how could you manage the conversation given it looks like you are lining up against Russia? 
+
 Continuations of the above--again, perhaps overly fancy opening--might include working with Turkey, Italy, or both. At the right moment, you should be able to break into Russia and at the right moment (this is a short, time-bound game remember?) you can steal back a few Balkan centers to top the board.
 
-BEYOND 1902
+### BEYOND 1902
 
 Some Austrian diplomats don't think beyond 1902 until they've arrived there. But to forgo such potential is a mistake.
 
@@ -57,7 +61,7 @@ A Bul, F Smy
 
 Actually, the above is only too common (and there are worse scenarios), but an Austrian with an ounce of grit and a measure of panache will know how to work his neighbors to his own delight. If it seems like Italy has your number, play his game for awhile. If Turkey would like to work with you, do not be afraid. At one point, even in these seemingly weakened arrangements, the well-timed stab is a knife in your favor. Better still, you may even keep it sheathed well into the mid-game.  
 
-ERIK'S CHOICE
+### ERIK'S CHOICE
 
 Some variation of the Balkan Gambit. Making the right assessment with your Viennan army and simultaneously enchant your neighbors.
 
@@ -65,6 +69,8 @@ If not the Balkan Gambit, I like the 'Modern Borders' concept discussed previous
 
 
 ## Balkan Gambit (Austria)
+
+![Balkan Gambit with A Vie - Gal](/resources/austria-balkangambit.png)
 
 A Vie - Tri/Gal/Bud  
 A Bud - Ser  
@@ -76,11 +82,15 @@ The question is what to do with A Vie. If the Russian can be persuaded to do som
 
 ## Galician Gambit (Austria)
 
+![Galician Gambit](/resources/austria-galiciangambit.png)
+
 A Vie – Tri
 A Bud – Gal
 F Tri – Alb
 
-Assuming a bounce in Galicia, this opening does allow the Austrian to support himself into Serbia with A Tri – Ser and A Bud S Tri – Ser. F Alb heads for Greece and a possible two-build Winter.
+An opening that is suspicious of both Italy and Russia. Have your communications broken down already? 
+
+Assuming a bounce in Galicia, this opening does allow the Austrian to support himself into Serbia with A Tri – Ser and A Bud S Tri – Ser. F Alb heads for Greece and a possible two-build Winter. Greece is no longer as clear a bet with Turkish A Bul and Italian F ION. 
 
 Of course, with the right diplomacy, A Bud (again assuming a bounce with Russian A War – Gal) could also affect Rumania’s fate or try again for Galicia.
 
@@ -96,6 +106,8 @@ With this alignment and cooperation from Italy, Austria is setup to take command
 
 ## Hungarian Houseboat (Austria)
 
+![Hungarian Houseboat](/resources/austria-hungarianhouseboat.png)
+
 A Vie – Bud
 A Bud – Ser
 F Tri – Hold
@@ -110,6 +122,8 @@ This way, the partnership trades the Austrian fleet for a future Austrian army t
 
 ## Southern Hedgehog (Austria)
 
+![Southern Hedgehog](/resources/austria-southern-hedgehog.png)
+
 A Vie – Gal  
 A Bud – Ser  
 F Tri – Ven  
@@ -120,18 +134,24 @@ A Vie – Gal bounces a Russian A War – Gal.
 
 A Bud – Ser prepares to collect the neutral supply center.  
 
-F Tri – Ven breaks up the Tyrolian Attack. As a reminder…  
+F Tri – Ven breaks up the Tyrolia Attack. As a reminder…  
 
-Italy:  
+Italy (The Tyrolia Attack):  
 A Ven – Tyr  
 A Rom – Ven  
 F Nap – ION  
 
 Italy would end up with A Tyr and A Rom prior to Fall 1901 instead of A Tyr and A Ven both adjacent to Trieste.
 
-The downside of course is that Italy has not played like this and the thrust into Ven makes it difficult to work together in the opening, where Italy and Austria arguably *must* align their interests.  
+The downside of course is that Italy has not played like this and the thrust into Ven makes it difficult to work together in the opening, where Italy and Austria arguably *must* align their interests, at least under most scoring systems and regular player relationship dynamics.  
 
-A further downside is that without F Tri – Alb, there is no chance at Greece.  
+A further downside is that without F Tri – Alb, there is no chance at Greece. Do you let Turkey know your plans here? Or do you try to get his him to send A Smyrna to Armenia? 
+
+T> #### Making the Most of Sub-Optimal Openings
+T>
+T> If you feel you must open F Tri - Ven, then having Turkish A Smy - Arm makes it impossible for Turkey to gain both Bulgaria and Greece (as the Sultan might have done having ordered A Con - Bul and A Smy - Con). How might you influence the Turk to open to Armenia? 
+T>
+T> Look for these small opportunities to influence your opponents so that the weaknesses in your sub-optimal openings aren't exposed so gratuitously.
 
 
 ## ENGLAND
