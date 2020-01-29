@@ -27,3 +27,7 @@ You might be surprised to learn that Calhamer wrote a fair amount on Diplomacy, 
 As can be discerned, he was also not incapable of the good Austrian solo.
 
 *It is also fun to see the beginning of Austrian-Italian theory in early articles like ['On Strengthening the Hand of Austria-Hungary'](http://www.dipwiki.com/index.php?title=On_Strengthening_the_hand_of_Austria-Hungary), describing possible AI combinations that have begun standard theory today.*
+
+And of course this gem, in ['The Tactics of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Tactics_of_Diplomac) originally written in 1961.
+
+> In any case, diplomatic considerations can override the technical.
