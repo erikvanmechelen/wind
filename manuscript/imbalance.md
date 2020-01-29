@@ -42,7 +42,7 @@ Let's take them one by one.
 **Rumania**: Most often Russia's, at least in 1901. 
 **Bulgaria**: As close to a sure thing for Turkey as Spain is for France.
 
-Obviously, the neutrals seem necessary to gather so as to build additional units. For some great powers, capturing them does require risk, the risk of pulling your units out of useful defensive positions. The most obvious being Austrian F Tri - Alb on its way to Greece. If Austria can pull this off, win Greece and not lose Tri, he will likely build two and also have his F Gre in a useful position to work with either of Italy or Turkey. 
+Obviously, the neutrals seem necessary to gather so as to build additional units. For some great powers, capturing them does require risk, the risk of pulling your units out of useful defensive positions. (Or from useful positions to launch attacks on your neighbor's home centers.) The most obvious being Austrian F Tri - Alb on its way to Greece. If Austria can pull this off, win Greece and not lose Tri, he will likely build two and also have his F Gre in a useful position to work with either of Italy or Turkey. 
 
 For France, gathering the Iberian neutrals could leave Burgundy exposed. It's rare to see a Russian A War - Sil in Spring 1901, but a German positioning for Den, Hol, and perhaps Bel is severely weakened by A War - Sil. (The German would likely bounce Russian F GOB - Swe if Russia opens with A War - Sil.) In the German case, trying for additional leverage on Belgium with A Mun - Ruh does leave a question for Munich if France opens to Burgundy. 
 
@@ -56,7 +56,7 @@ Germany's ownership of Holland and Denmark, in conjunction with England's F NTH,
 
 Austria's gain in Serbia seems safe enough, but Greece is less stable. Rumania, if held by Russia, is potentially under fire from Bud, Ser, and Bul. Or is Turkey's just-gained Bulgaria at risk to a combined Austrian-Russian effort? In [Josh Burton's statistical analysis](http://uk.diplom.org/pouch/Zine/S2007R/Burton/statistician2.htm), there is evidence that Russia's game improves dramatically with ownership of Sweden, and reasonably with ownership of Rumania, but less so.
 
-I also now invite you to consider the relative positions of the neutral supply centers (and groupings of neutrals) that you and your neighbors own to common stalemate lines. The board is _not_ setup in such a way that 7 players sit in a grand circle around supply centers evenly distributed at the circle's center. If that were the case, more games would end with 5-, 6-, or even 7-way draws, as players would be able to protect their centers around the edges while dipping their toes into the center without risking their home dots.  
+I also now invite you to consider the relative positions of the neutral supply centers (and groupings of neutrals) that you and your neighbors own to common stalemate lines. The board is *not* setup in such a way that 7 players sit in a grand circle around supply centers evenly distributed at the circle's center. If that were the case, more games would end with 5-, 6-, or even 7-way draws, as players would be able to protect their centers around the edges while dipping their toes into the center without risking their home dots.  
 
 You can try this thought experiment yourself, by assigning supply centers to territories that are currently not centers. 
 
@@ -66,7 +66,7 @@ Instead, with the exception of Spain, neutral supply centers are positioned adja
 
 This simple imbalance innate to the Diplomacy board texture keeps players jostling for position from game start to game end. 
 
-Furthermore, so long as Turkey or England are in the game, there are players in control of units that are _behind_ common stalemate lines. The potential for imbalances to be exploited remains. Whilst a volatile or savvy Turkey or England remain in the game, a stalemate position cannot be established. Nor should, from a Turkish or English strategic perspective, this be allowed. 
+Furthermore, so long as Turkey or England are in the game, there are players in control of units that are *behind* common stalemate lines. The potential for imbalances to be exploited remains. Whilst a volatile or savvy Turkey or England remain in the game, a stalemate position cannot be established. Nor should, from a Turkish or English strategic perspective, this be allowed. 
 
 *For a deeper statistical study of relative imbalances relating to solo victories, see this article, ['The Statistician: Solo Victories'](http://uk.diplom.org/pouch/Zine/F2007R/Burton/statistician3.htm) by Josh Burton.*
 
@@ -92,7 +92,7 @@ Obvious:
 
 By not fighting, France and Italy can focus their attention elsewhere.
 
-Other powers are likely to gain _more_ from a weakening or elimination of either Italy or France than Italy or France themselves.
+Other powers are likely to gain *more* from a weakening or elimination of either Italy or France than Italy or France themselves.
 
 It takes a long time to win this fight. 
 
@@ -107,7 +107,9 @@ Not Obvious:
 
 ### Italy and France are Not Really Neighbors
 
-Switzerland's wall and Piedmont's gate already keep Italy and France separated by land. Now, let's examine their proximity by boat. The Tyrennian Sea, the Gulf of Lyon, and the Western Med create an ocean of distance to cross. 
+Switzerland's wall and Piedmont's gate already keep Italy and France separated by land. (If Switzerland were passable, not only does Venice feel a lot weaker, but access to Trieste and Vienna through Tyrolia or vice versa would be vastly improved. As an exercise, consider the relative proximity of Italy's home centers and Austria's home centers to Marseille.) 
+
+Since the land route is cramped, let's examine Italy and France's proximity by boat. The Tyrennian Sea, the Gulf of Lyon, and the Western Med create an ocean of distance to cross. 
 
 Italy cannot steal a center from France. Nor can France steal one from Italy. (Almost all other neighbors can steal centers given their proximity.) Even something like F MAO - WES in Fall 1901 setting up a convoy to NaF in Spring 1902 is hardly a surprise attack. And, by contrast to say an English move of F NTH - SKA in Fall 1901, where England can arrange plans with either Russia or Germany, it is clear what F MAO - WES (and a Winter 1901 build of F Mar) intends.
 
@@ -137,11 +139,13 @@ Oftentimes, because of the drawn-out affair, other powers will be able to lend a
 
 ## Supply Center and Unit Density
 
-To be written. 
-
-Key points: 
-
 There are 75 territories, of which 34 are supply centers. 
 
-It takes 2 units to dislodge 1. As most players begin the game with only 3 units, it takes a majority of his units to dislodge another player's single unit. 
+It takes 2 units to dislodge 1. As most players begin the game with only 3 units, it takes a majority of a player's units to dislodge another player's single unit. 
+
+The playing area is, to repeat a word I used while describing the space between Italy and France (by land), cramped. This unit density means it is usually not so easy to reposition units (without risk)--consider how as England it may be difficult to replace your fleet in Belgium (perhaps a compromise with either of France or Germany to at least get your fifth center) with a more useful army. 
+
+Each Great Power's territory is different, however, and well-suited in some cases to its historic geopolitical situation. 
+
+For instance, since Ivan the Terrible, Russian leaders have realized they needed to push outward (offensive realism) to avoid others pushing over the plains in their northwest or through gaps in modern day Rumania or Armenia. In other words, defending Russia is not so pleasant. An army in Moscow, which borders all home centers, is useful, but not enough to defend Saint Petersburg and Sevastapol at the same time. Losing either of its ports, especially its warm-water port, is particularly damaging. While Russia likely gives up big draws or solo chances by permanently losing Saint Petersburg, losing Sevastapol rings a different sort of alarm bell which cannot be snoozed. 
 
