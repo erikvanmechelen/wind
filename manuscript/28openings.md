@@ -22,15 +22,27 @@ If with Italy, all the better. This way the Italian can contribute to a balance 
 
 Are you a new player? Make sure you order A Bud - Ser. Serbia is *such* a crucial supply center for supports and support-cutting throughout the game. That army will be busy. Doing anything else with A Bud is too risky for a normal game. 
 
-(There are some *very* fancy--perhaps too fancy--openings which call for A Vie - Gal and A Bud S Vie - Gal (with a dead solid Turkish ally), but I only recommend those in edge cases. One edge case would be a reliable Turkish collaborator in a short, time-bound game, where you can get a jump on Rumania while *possibly* giving Serbia to Turkey in 1901...this also calls for deliberate negotiations with Russia to first try sending Moscow north and second to lobby for a hold in War or A War - Ukr. If you're sure Russia will play A War - Ukr and F Sev - BLA you can also go for A Vie - Gal and A Bud - Rum straight away in Spring 1901. Again, Turkey can be offered Serbia and you're best off keeping Italy onside as well so there isn't trouble in Trieste or with your F Alb - Gre.) 
+There are some *very* fancy--perhaps too fancy--openings which call for A Vie - Gal and A Bud S Vie - Gal (with a dead solid Turkish ally), but I only recommend those in edge cases. 
 
-In these scenarios, I'm unafraid of the apparently lopsided alliance with Turkey, understanding that if needed Italy can spare me a fleet or two to assist in bringing down the Turk once the Turk and I have crippled Russia. If Turkey is not inclined, I'm just as happy to work with the Russian.  
+![Austrian A Bud - Rum with Turkish Ally](/resources/austria-bud-rum.png)
 
-In games where you're under attack, try to glean the assistance of the German, prompting moves like A Mun - Tyr for protection of Trieste and Vienna.
+One edge case would be a reliable Turkish collaborator in a short, time-bound game, where you can get a jump on Rumania while *possibly* giving Serbia to Turkey in 1901...this also calls for deliberate negotiations with Russia to first try sending Moscow north and second to lobby for a hold in War or A War - Ukr. 
+
+![Austria holds Rum while Russia plays A StP - Nwy](/resources/austria-rumh2.png)
+
+If you're sure Russia will play A War - Ukr and F Sev - BLA you can also go for A Vie - Gal and A Bud - Rum straight away in Spring 1901. Again, Turkey can be offered Serbia and you're best off keeping Italy onside as well so there isn't trouble in Trieste or with your F Alb - Gre.) 
+
+![Turkey into Serbia, with Italy deciding the AT looks dangerous](/resources/turkey-serbia.png)
+
+In these scenarios, I'm unafraid of the apparently lopsided alliance with Turkey, understanding that if needed Italy can spare me a fleet or two to assist in bringing down the Turk once the Turk and I have crippled Russia. If Turkey is not inclined, I'm just as happy to work with the Russian. (The previous image could even be an arranged A Ven - Tri to lend Italy his fifth center while also staying the course with Turkey against Russia. Delicate Diplomacy needed!)
+
+Continuations of the above--again, perhaps overly fancy opening--might include working with Turkey, Italy, or both. At the right moment, you should be able to break into Russia and at the right moment (this is a short, time-bound game remember?) you can steal back a few Balkan centers to top the board.
 
 BEYOND 1902
 
 Some Austrian diplomats don't think beyond 1902 until they've arrived there. But to forgo such potential is a mistake.
+
+In games where you're under attack, try to glean the assistance of the German, prompting moves like A Mun - Tyr for protection of Trieste and Vienna.
 
 And plan you should, else you be confronted with something like the following in Spring 1902: 
 
