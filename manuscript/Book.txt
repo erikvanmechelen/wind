@@ -2,6 +2,7 @@ acknowledgments.md
 howyouthink.md
 barbosa.md
 environment.md
+onlinesamplegame.md
 imbalance.md
 coordination.md
 scoring.md
