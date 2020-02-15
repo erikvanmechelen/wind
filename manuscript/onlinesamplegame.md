@@ -6,15 +6,15 @@ From my negative review of online play in this book's opening, you might be surp
 
 Understand who you are playing with and under what rules and norms. 
 
-All the players know each other and most of us if not all had played at least one game together. So, we would kno *who* is in the game, but not which *Great Power* each player would be commanding. 
+All the players know each other and most of us if not all had played at least one game together. So, we would know *who* is in the game, but not which *Great Power* each player would be commanding. 
 
 Backstabbr in our case provided us with:
 
 - Daily, 24-hour moves (Build and Retreat phases take half the adjudication period)
 - Normal press rules (press disabled in Build and Retreat phases)
-- 
+- Anonymous Game - players may not share which power they are playing
 
-## How the Game Started
+## 2020 Minnesota Diplomacy Club Game on Backstabbr
 
 I drew **Austria**, which was fine by me. From a certain point of view, Austria is the best country. 
 
@@ -36,9 +36,9 @@ Next up, I exchanged messages with Turkey.
 
 Notice the request the Sultan makes: 
 
-S> Turkey in spring 1901
-S> 
-S> I would consider a partnership with you. I will commit to move Smyrna to Armenia if you commit to move Vienna to Trieste. What do you say?
+A> Turkey in spring 1901
+A> 
+A> I would consider a partnership with you. I will commit to move Smyrna to Armenia if you commit to move Vienna to Trieste. What do you say?
 
 The phrasing "I will commit...if you commit" reminds me of a certain player in the game, possibly two. It may be difficult to work effectively with him if I agree and then violate this agreement, however the chance of starting a fight between Russia and Turkey is worth it, even if I opt for what I eventually did: 
 
@@ -98,7 +98,6 @@ Pretty standard so far.
 
 ### The Bear 
 
-
 The last message I sent was actually to Russia. Even though I strategically would like to make Russian centers my own, eventually, I should be careful to keep things cordial and not give away my intentions. Things can change quickly in a game of Diplomacy and it is foolish to close off options so soon, especially in Spring 1901. 
 
 ![Looking to send Russia north into conflict with England](/resources/2020back_russia1901s.png)
@@ -117,11 +116,39 @@ I therefore switched my order to A Vie - Bud to keep my agreement with Russia wh
 
 The image of the above conversation is cut off. There are two more messages: 
 
-S> Russia in spring 1901
-S>
-S> Agreed. Do you think we can keep Italy on our side for long enough?
-S>
-S> Austria in spring 1901
-S>
-S> Negotiating with him and hoping we can come to an arrangement.
+A> Russia in spring 1901
+A>
+A> Agreed. Do you think we can keep Italy on our side for long enough?
+A>
+A> Austria in spring 1901
+A>
+A> Negotiating with him and hoping we can come to an arrangement.
+
+
+### My Spring 1901 Move Set
+
+The above negotiations allowed me to fairly comfortably play the **Balkan Gambit** with A Vie - Bud. 
+
+I have a good relationship with most players and will only have to explain my A Vie - Bud with Turkey, who had asked that I play A Vie - Tri. 
+
+Of course, I am interested to find out if Italy goes for Trieste in the Spring or waits till Fall. Both or fine, but they do alter the negotiations I have with other players. 
+
+If Italy goes in the Spring, we can sell that we are fighting sooner. 
+
+If Italy goes in the Fall, we would have to sell it later...and players would be building in Winter 1901 (under some uncertainty since this game does *not* have press during Build/Retreat phases).
+
+I'm personally undecided--for the purposes of **Modern Borders** in general--whether Italy moving in Spring or Fall is better. 
+
+### Spring 1901 Orders
+
+![Spring 1901](/resources/2020back_1901moves.png)
+
+All moves succeed, inclding the mysterious F Sev Holds.
+
+
+### Fall 1901 Begins with Russian Negotiations
+
+![Whether to trust Russia...](/resources/2020back_russia1901f.png)
+
+
 
