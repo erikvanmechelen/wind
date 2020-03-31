@@ -151,4 +151,16 @@ All moves succeed, inclding the mysterious F Sev Holds.
 ![Whether to trust Russia...](/resources/2020back_russia1901f.png)
 
 
+### How the Game Went On, And How it Ended
 
+From my perspective, as Austria, I continued into 1902 hoping to work with Italy. After all, I'd invited him into Trieste from the game start. 
+
+When he built a third army, however, and also moved into Tyrolia and Venice, I started to wonder if his cautious play would put our alliance or our tempo at risk. 
+
+After almost a full day of back and forth conversations, I nearly decided to put my chips with Turkey, and sent the Sultan a message explaining my decision to abandon Italy, who clearly "didn't understand how to play the Austrian-Italian alliance", or something to that effect, which the Turk took as convincing. 
+
+It was convincing precisely because I intended to join the Turk at that very moment. However, after another couple hours passed and additional messages were exchanged between myself and Italy, the Italian and I agreed to work things out and exchange Trieste for Greece. This approach, to my eyes, was slower than it should have been, but I went along with it since I wanted to find out how strong this particular AI partnership could be. 
+
+We grinded out the game for a 17-17 draw even though at the last stages Germany was throwing me centers to try to get me the solo. I declined, to his chagrin, most likely. 
+
+As Brandon Fogel of Chicago pointed out when I mentioned the game result, a 17-17 draw is quite lame, in particular how we arrived at it. As I explained briefly during that livestream linked above, as this game was *not* part of an established scoring system, I wanted to try out the AI to its conclusion for the sake of doing it. Motivationally, I imagine many Diplomacy players nodding in agreement or frustration that I don't always share their purist tendencies. What can I say? I am probably more flawed than you, dear Reader. 

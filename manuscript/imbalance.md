@@ -1,7 +1,7 @@
 {sample: true}
 # Beautiful Imbalances
 
-I've made a few games with my brothers and so I enjoy analyzing a game from the designer's perspective. Participating in local IGDA events or design events like Protospiel has taught me more about how to approach games critically. 
+I've made a few games with my brothers (board games, and an iOS game) and so I enjoy analyzing a game from the designer's perspective. Participating in local IGDA events or design events like Protospiel--where fellow MN Diplomacy council member, Jake Langenfeld, was testing his 'Masters of the Senate'--has taught me more about how to approach games critically. 
 
 The more I play, look at, and think about Diplomacy, the more beautiful imbalances I see. Like a guitar, whose harmonics arise from imperfections, Diplomacy may be the wonder it is by virtue of these quirks in its design.  
 
