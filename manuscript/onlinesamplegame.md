@@ -69,9 +69,9 @@ I don't know exactly why I would tip off France to this possibility, except to c
 
 ### France to the Channel?
 
-I don't know exactly why I would tip off France to this possibility, except to create a good speaking relationship with him, as at one point in the mid-game I may like to work with him against my early game ally, Italy. 
+Onward to my first negotiations with France.
 
-As you can see, not much information is exchanged between he and I. 
+As you can see, not much information is exchanged between he and I. Arguably I might have aimed to offer more or learn more, given we share two neighbors in Italy and Germany, and the western moves relating to Russia, where my possible mid-game growth may come, could be vital.
 
 ![Rumors and pleasantries, while they last](/resources/2020back_france1901s.png)
 

@@ -107,17 +107,27 @@ This challenge is part of what makes Diplomacy such an interesting game. Every p
 
 ### Club Games
 
-Finding a local club is a great way to get into a regular habit of Diplomacy. You not only will most likely get a quality game, but also the chance to create relationships with people who love Diplomacy as much as you do, and who won't get over sentimental about your successful backstab--it's part of the game! 
+Finding a local club is a great way to get into a regular habit of Diplomacy. You not only will most likely get a quality game, but also the chance to create relationships with people who love Diplomacy as much as you do, and who won't get overly sentimental about your successful backstab--it's part of the game! 
 
-In Minnesota, we are soon to adopt the Janus scoring system, which improves upon the popular Sum of Squares system by incentivizing board tops, dominance, balance of power, and survival, all in tension with tradeoffs.
+In Minnesota, we are soon to adopt the Tribute scoring system (previous 'Janus'), which improves upon the popular Sum of Squares system by incentivizing board tops, dominance, balance of power, and survival, all in tension with tradeoffs. And to boot is easy to understand for new players and simple to calculate on the fly. Brandon Fogel of Chicago's Windy City Weasels has written a report on Tribute which is freely available.
 
-We believe this will enhance the experience for both new players and returning players alike.
+We believe this scoring system will enhance the experience for both new players and returning players alike.
 
 ### Tournaments
 
 So far, I've only played in one tournament--the 2019 WeaselMoot XIII in Chicago--where I placed 5th, but I intend to play in upcoming World Diplomacy Championships at Carnage in Vermont (2020) and Bangkok, Thailand (2021).
 
 My first tournament showed me how much more I had to learn about the face-to-face game and how varied the types of personalities and people are that play Diplomacy. It was an unforgettable experience that got me excited about playing more, investing more in the MN Diplomacy Club, and continuing to write my thoughts on the game in articles and eventually, this book.
+
+### Face to Face ONLINE
+
+With the latest pandemic sweeping our planet, it is for the time being not prudent to meet in small or large groups for club games or tournaments.
+
+Of course, online Diplomacy will likely remain popular. 
+
+![MN Diplomacy Club's First Ever Online Diplomacy Battle Royale](/resources/streamyard032020a.png)
+
+That said, several groups have begun experimenting and innovating on new styles of Diplomacy. We in the Minnesota Diplomacy Club decided to try a hybrid online & face-to-face game, complete with GMs on backstabbr, negotiations through backstabbr and Slack (voice calls allowed), and a livestream on streamyard. You can find [the 7-hour footage here](https://www.pscp.tv/w/1jMJgQZmmZkKL), and I'll soon be creating a 5-minute and 30-minute highlight video. 
 
 ## Where I Would Play First
 
