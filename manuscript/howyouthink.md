@@ -1,23 +1,19 @@
 # How You Think > What You Think
 
-![Let's be honest, the board you play on matters](/resources/stolafboard.png)
+![Map and territory.](/resources/stolafboard.png)
 
-After a recent game a fellow member of the Minnesota Diplomacy Club asked me, "So Erik, have you changed your mind about England playing F Lon - ENG in Spring 1901 as a standard?"
+After a face-to-face game in 2019 a fellow member of the Minnesota Diplomacy Club asked me, "So Erik, have you changed your mind about England playing F Lon - ENG in Spring 1901 as a standard?"
 
-The late Clayton Christiansen once [refused to tell Intel what they should do](https://hbr.org/2010/07/how-will-you-measure-your-life), instead insisting on sharing an example outside their industry to illustrate the concept, and only then asking them if they saw anything new to do in their own business. 
+How you think is more important than what you think. 
 
-One of my favorite writers, Christopher Hitchens, echoes in *Letters to a Young Contrarian* that it is far more important how ones thinks than what one thinks. The process at which one arrives at conclusions should allow for variation over time, including reversals, in the specific content (or output) of one's thinking. 
+Generally I like F Lon - Eng because it is: a) likely to succeed; b) does not rule out collaboration with France; c) is generally pro-German and pro-Russian (maybe one of them will buy you a drink at this point); d) difficult to dislodge in the early game; and e) *insert your own reasons here*...
 
-This holds true for Diplomacy. 
+However, to make such a move in Spring 1901, I would prefer certain conditions, some of which I would have influenced diplomatically. Obviously, the first is that France is likely to play F Bre - MAO and *not* F Bre - Lon. Bouncing there in Spring 1901 is bad for both. We know that F Bre - MAO is quite standard, probably played in more than 75% of French openings. The second preferred condition is that I can smooth things over with France after moving to ENG (if I did so unexpectedly). Third, that the move to ENG creates a positive image from at least Germany's or Russia's perspective, preferably both. 
 
-Because it is not so easy to describe the kind of game Diplomacy is, we risk and do succeed in hamstringing ourselves by answering an easier question. 
+These conditions might be influenced in advance of the move, but/and they should be sold as such after your fleet successfully reaches the English Channel. In other words, Germany should be reminded of ways F ENG is useful to him, and Russia should be reminded that he need not be concerned of F NWG - BAR (as, presumably, with your second fleet you opened F Edi - NTH).
 
-For example, we might instead answer the question, What does it take to win at Diplomacy? 
+Now, of course, there are conditions which disallow me to vote for F Lon - ENG. Perhaps the simplest is if I receive persuasive intel that the Bear is opening F Mos - Stp, in which case I'm left little option save F Edi - NWG and F Lon - NTH in order to support myself into Nwy for the Winter 1901 build.
 
-You start to think about your most recent game...and you remember a viscious stab (wonderfully orchestrated) by your erstwhile ally. You conclude: "A modicum of timely perfidy!"
+This is an example of how I think about a specific issue: What to do with F Lon in Spring 1901. 
 
-Sure, *some* deception and outright lies may very likely be required to consistently succeed at Diplomacy, but we have skipped over the question of what kind of game Diplomacy is, and by simply suggesting a new player remember to deceive his opponents on occasion, we really don't offer much guidance at all. This new player will have to work backwards to ask himself what sort of game he is playing, and build to his own conclusions. 
-
-Here is a concrete example. If anything, you might have steered him wrong from the outset: Perhaps as France he declines to share his intentions to move on Burgundy and the German player, unsure of why France seemed so suspicious in Spring 1901 negotiations, sends his Munich army to bounce. Now France may believe he has lied, been caught, and may head into Fall 1901 negotiations somewhat sheepishly, all the while having no influence on the fate of Belgium in 1901. This, of course, could have entirely been avoided. 
-
-Before moving on, perhaps you'd like to know what I think about the English Channel. I might respond, Is the English Channel the proper name for that body of water? Jokes aside, you already know I'm not going to answer many questions phrased in such a way. If you had asked, "*How* do you think about the English Channel?", then I might have ventured a reply. 
+Noting how your opponents think--including their views on scoring systems, strategy, fair play, and not discounting subconscious bias--and how those individuals are thinking (and feeling) in this particular game, is a useful skill to bring on board as well. More on this as we venture forth into the various issues of negotiation in this great game of Diplomacy.

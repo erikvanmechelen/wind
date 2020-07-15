@@ -1,10 +1,8 @@
 # Acknowledgments
 
-With everything any of us do, we are likely to be standing on the shoulders of giants. 
+This hobby has numerous legends, giants upon whose shoulders we all stand. 
 
-This hobby has numerous legends. 
-
-I don't know how many of the following people are legends nor is it up to me to decide, but they've helped me in small and large ways to produce this resource or otherwise provide encouragement at key moments, especially Allan B. Calhamer, Chris Martin, Andrew Goff, Richard Sharp, David Hood, Stephen Agar, Mark Berch, Dave Maletsky, Brandon Fogel, Zachary Moore, Jacob Langenfeld.
+There is persistence and chance which led me to meeting these people in person or virtually or through their work. Allan B. Calhamer, Chris Martin, Andrew Goff, Richard Sharp, David Hood, Stephen Agar, Mark Berch, Dave Maletsky, Brandon Fogel, Zachary Moore, Jacob Langenfeld, Ben Johnson.
 
 You might be surprised to learn that Calhamer wrote a fair amount on Diplomacy, and that he was not opposed to off-board tricks, nor altogether put off [when an opponent hid his carefully-planned orders at the bottom of a wastebasket](http://www.dipwiki.com/index.php?title=Military_Intelligence) in the defense laboratory where they played Diplomacy in their down time. 
 
@@ -14,9 +12,9 @@ You might be surprised to learn that Calhamer wrote a fair amount on Diplomacy, 
 
 As can be discerned, he was also not incapable of soloing with Austria.
 
-It is also fun to see the beginning of Austrian-Italian theory in early articles like ['On Strengthening the Hand of Austria-Hungary'](http://www.dipwiki.com/index.php?title=On_Strengthening_the_hand_of_Austria-Hungary), describing possible AI combinations that have begun standard theory today.
+For, was also notable to access the beginning of Austrian-Italian theory in early articles like ['On Strengthening the Hand of Austria-Hungary'](http://www.dipwiki.com/index.php?title=On_Strengthening_the_hand_of_Austria-Hungary), describing possible AI combinations that have become standard theory today.
 
-If only reading one of Calhamer's articles, I recommend highly ['The Invention of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Invention_of_Diplomacy), where Calhamer's instincts as a game designer are on full display.
+If only reading one of Calhamer's articles, I recommend ['The Invention of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Invention_of_Diplomacy), where Calhamer's instincts as a game designer are on full display.
 
 And of course this gem, written in 1961 in ['The Tactics of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Tactics_of_Diplomac) still holds true today:
 
