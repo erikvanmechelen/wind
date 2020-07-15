@@ -3,10 +3,10 @@ howyouthink.md
 barbosa.md
 environment.md
 onlinesamplegame.md
-imbalance.md
+fundamentals.md
 coordination.md
 scoring.md
-fundamentals.md
+imbalance.md
 notation.md
 nogamelike.md
 whichcountry.md
@@ -18,3 +18,4 @@ makingrain.md
 77mistakes.md
 28openings.md
 endgame.md
+resources.md

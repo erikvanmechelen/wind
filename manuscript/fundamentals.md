@@ -1,29 +1,16 @@
 {sample: true}
 # The Fundamentals
 
-My name is Erik and I'll be your guide on this Diplomacy journey. Whether you are a new player entering your first few games face-to-face or online, or simply hoping to step up your game to an intermediate level, you've come to the right place!
+After playing a few games in high school, I read Richard Sharp's [*The Game of Diplomacy*](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
 
-For the basics, have a skim or full read of Richard Sharp's [*The Game of Diplomacy*](https://diplomacy-archive.com/god). With knowledge of basic tactics from the first chapter, you'll be ready to absorb everything in this book. Be sure to pay mind to support-cutting, the scissors, braces, and the humorous but useful merry-go-round.
+We will review all of that here, too, in addition to important nuances you may find scattered around the net, but consolidated here for your convenience.
 
-If you're reading a digital version of this book, the following may serve you: 
+Knowing what options and constraints you have allows you to get creative, to better generate strategy, to more ingeniusly approach the diplomacy.
 
-Here is [PDF of the rulebook](https://www.wizards.com/avalonhill/rules/diplomacy.pdf) from the version of the game I own. 
-
-[This page on WikiBooks](https://en.wikibooks.org/wiki/Diplomacy/Rules) is useful too.
-
-Brandon Fogel's discussion of [the Tribute Scoring System](https://github.com/erikvanmechelen/diplomacybook/blob/master/2019-07%20-%20Systems%20of%20Value%20in%20Diplomacy%20(Janus)%20v3%20(1).pdf) provides a brief history of scoring systems and advocates for the upcoming Janus approach. (Scoring system was previously called Janus.)
-
-Looking for general strategy dating back decades? Try the [Diplomacy Archive](http://www.diplomacy-archive.com/home.htm).
-
-For a highly readable discussion of openings, try 3x World Champion Andrew Goff's [Diplomacy Openings](https://diplomacyopenings.wordpress.com/).
-
-If you're starting a club or local game, to keep new players organized and less overwhelmed, try handing out the [Diplomacy Games Journal - Austria Edition](https://www.amazon.com/dp/1704088372), or [Germany Edition](https://www.amazon.com/dp/1704300924) or [Italy Edition](https://www.amazon.com/dp/1704232562).
-
-To practice online, [Watch this video](https://youtu.be/mgWste5NwNY) on how to get started on [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app&hl=en_US) or open up a sandbox at [backstabbr.com](backstabbr.com).
-
-Prefer to watch high-level players in action, look no further than [Chris Martin's full video recap](https://www.youtube.com/watch?v=zPlUuvIV7ws&list=PLbwng27eI0e3O9rIFcXp_Bvr97TNgAsQw) of the World Diplomacy Championships 2016. I'm waiting, and I think I'll be waiting for awhile, to see a better combination of reporting, commentary, and analysis by a World Diplomacy Champion on a top-shelf Diplomacy tournament Top Board.  
 
 ## The Nature of Diplomacy
+
+Before tactics, let's set the table. 
 
 For me, Diplomacy is a 7-player game about area control guided by secret and simultaneous piece movement. The player who most effectively manages and strategically expands his territory wins or takes part in a draw. If we advance the discussion to include game theory, all good strategies include one thing: effective negotiation. In a word, Diplomacy.  
 
@@ -31,9 +18,11 @@ He who can influence his opponents to collaborate at the right moments and misdi
 
 ## Who am I?
 
-I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the [MN Diplomacy Club](https://mndiplomacyclub.com) and earned Player of the Year in the inaugural 2019 season for best overall results. 
+I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and earned Player of the Year in the inaugural 2019 season for best overall results. 
 
 I expect to play in the next World Diplomacy Championships, Carnage in 2020.
+
+*Edit: To be determined given the novel coronavirus.*
 
 ## Stealing Your Destiny
 
@@ -43,9 +32,201 @@ But to give too much away--and believe me, I'm trying--is also double-edged, bec
 
 This gives you a chance to try new things, like ordering `A Lvp H` (!) for diplomatic reasons. 
 
-See my occasional Livestreaming Diplomacy show, [Diplomacy Daily](https://twitch.tv/decision_), on Twitch. Or watch the highlights on [my YouTube channel](https://www.youtube.com/channel/UCHd8aV8-hVwWafem1tiXClw?view_as=subscriber).
+## Tactics
 
-I'll bounce you soon! 
+Here we discuss movement, bounces, supports, support-cutting, retreats, unwanted supports, convoys, and builds.
 
-Best regards and happy reading,
-Erik van Mechelen 
+Fairly simple rules--only 4 options for any unit--and the constraint of one unit per territory lead to many beautiful options for each player in any given season of Diplomacy. The anticipation prior to orders being read is one of the best moments on offer in gaming.
+
+### Movement and Intro to Supporting
+
+Armies move between land territories. Fleets along coasts and bodies of water. 
+
+A unit, army or fleet, can support any army or fleet moving to a territory that the supporting unit itself *could* otherwise move. It is not necessary for the units to be adjacent one another. A unit may be supported by multiple other units. 
+
+A common opening, should France desire to guarantee ownership of Burgundy by Fall 1901, is A Par - Bur with A Mar S Par - Bur. Even if Germany plays A Mun - Bur, the French army from Paris arrives in Burgundy with a strength of 2 vs the unsupported German army arriving from Munich with a strength of 1.
+
+Players may support their own and other players' units. Both are useful. 
+
+### How Orders are Read & Adjudicated
+
+All orders, no matter the sequence of their reading, are said to occur simultaneously. Aside from a small handful of paradoxes, successfully adjudicating orders by hand in a face-to-face game quickly becomes second nature. 
+
+However, for new players, keep in mind that because all moves are said to occur simultaneously. You don't get into a territory simply by moving there 'before' me (based on which player's orders are read first) so long as I have also ordered a unit there. 
+
+Generally, if no gamemaster is present to adjudicate, players will take turns reading orders for each player, beginning with their own. Starting with one's own orders prevents the reader from verbally changing his orders after announcing another player's orders (that he didn't like). Whatever orders are legibly written on the order sheet or notebook is final. 
+
+As in life, anticipation is often better than the real thing. We humans, as poet David Whyte has put it, are in constant anticipation of arrival. The arrival is usually a relief or disappointment rather than elation.
+
+### Bounces
+
+When I was still creating YouTube videos, I opted to end them with a parting "Bounce you soon!", a variation of Chris Martin's "I'll stab you soon" to close his own excellent videos.
+
+Bounces are frequent. This is in part because of the rule restricting one unit for one territory, and in part because of the unit density (the number of units relative to the territories available to move through on the game board). Certain territories are critical and are often occupied through much of a game. Others, like Clyde or the Adriatic Sea, are more situational. 
+
+A bounce occurs anytime at least two units attempt to occupy the same territory, with equal strength. 
+
+Perhaps the most common early game bounce is in the Black Sea. 
+
+Turkey orders F Ank - BLA and Russia orders F Sev - BLA. 
+
+Bounces can help you defend a key territory while also ultimately maintaining the territory in which a unit sits. Consider Germany arranging a bounce with France in Burgundy in Spring 1901.
+
+Bounces may also be used to help an ally. 
+
+Imagine this situation, where Austria should like to disguise an alliance with Russia whilst defending against a potential Italian stab. 
+
+Austria: 
+A Tri - Vie
+
+Russia: 
+A Gal - Vie
+
+Italy: 
+A Ven - Tri
+
+The Austrian and Russian armies bounce. The Austrian army then returns to Trieste, where it bounces with the incoming Italian army from Venice. If this is a Fall turn, Austria will now be able to build in Vienna. If Austria had desired to build in Trieste (perhaps seeking a fleet build), he would have had to vacate Trieste, but in this example would have been foiled by A Ven - Tri. 
+
+#### Self-Bouncing
+
+Self-bouncing (referred to as the scissors by Richard Sharp) effectively allows a player to defend three territories with only two units. Often used to defend a home center whilst keeping it open for a Winter build. 
+
+You might also use the self-bounce to both defend an already-owned center and keep a new center taken in the Spring.
+
+Or, more simply, you may wish to hold onto gains and defend access to pivotal territories:
+
+France has an army in Belgium and Marseille, with an English fleet in NTH, a German army in Mun, and an Italian army in Pie. By ordering A Bel - Bur and A Mar - Bur, France can safely protect Burgundy and hold Belgium and Marseille from his neighbors' potential prods. 
+
+
+#### The Brace
+
+When two units attempt to switch places, both with equal strength of two (or more), they remain home. This is known as a brace. 
+
+Why not call this a bounce? It is very similar to a bounce, but is distinguished from the average bounce in that the starting positions of the moving units are adjacent. 
+
+
+#### Beleaguered Garrison
+
+The beleaguered garrison rule, which states that if a province is attacked from two (or more) sides by equal forces, any unit occupying the province cannot be dislodge, even if it is weaker than all the individual attackers.
+
+Imagine a German army has reached Galicia but both Austria and Russia should like to occupy that territory. 
+
+Austria: 
+A Vie - Gal
+A Bud S Vie - Gal
+
+Russia: 
+A War - Gal
+A Ukr S War - Gal
+
+Germany: 
+A Gal - Vie
+
+The result here is that the German army in Gal is the beleaguered garrison--not only surrouned but attack from two parties each with a strength of two. However, neither the Austrian nor Russian armies gain Galicia. The German army is not dislodged and stays put. 
+
+### Building
+
+When, at the end of a Fall season--the beginning of Winter--a player's supply center count is greater than that player's current unit count, that player may build in any unoccupied home center. Armies in land territories. Fleets on any coastal territory. 
+
+Players may waive builds (save them for later), but this is risky given the fact that player may lose one or more supply centers that very next year.
+
+The building rules, which extend from the end of Fall center counts, lend to a considerable amount of the tactics and strategy available in Diplomacy. After neutral centers are gained, usually by end of 1902, any center gained for one power is a center lost by another. 
+
+Most game types do not allow for negotiation during Winter seasons, which means players must analyze the outcomes from the Fall moves and place their builds without further discussion. 
+
+Opening home centers for builds at key moments is a crucial aspect of tactics and strategy as well. (See the upcoming 'unwanted support' in this chapter.)
+
+If during a Winter phase a player's units exceed that player's owned supply centers, that player must remove units to equalize. Any units the players owns may be disbanded (removed from the board). As removals take place during the same Winter phase as builds, there is no negotiation. Choose your removal wisely. 
+
+### Supports Continued
+
+Supports may be **cut** by any unit attacking the territory of the unit providing support. 
+
+A unit may not cut the support of a unit supporting an attack on the original unit. 
+
+Imagine France has armies in Ruhr and Burgundy and Germany has an army in Munich. France orders A Ruh - Mun and A Bur S Ruh - Mun. Germany does not save himself with A Mun - Bur (or A Mun - Ruh; two units may not trade places). The army in Munich is dislodged and must retreat if possible. 
+
+#### Unwanted Support
+
+Usually, when your neighbor supports one of your units, to move or to hold, it is a good thing. But sometimes, you don't want the support you end up getting. 
+
+Suppose France hopes to free up Marseille for a Winter build. 
+
+France:
+A Mar - Gas
+A Spa - Mar
+A Bur - Mar (intending to self-bounce and also prevent Italian A Pie - Mar) 
+
+Italy:
+A Pie S Bur - Mar (!)
+
+The result? 
+
+French A Bur - Mar succeeds, which covers Marseille, preventing a build there.
+
+If France was hoping to build a fleet, this scenario might represent the rare scenario where it is acceptable to waive a build. The option of waiving a build is usually a tremendous luxury. 
+
+### Movement Continued
+
+Here are several more types of movement that involve multiple units. 
+
+#### Chain Movement
+
+This refers to any time you move a sequence of units, beginning with the first moving into an adjacent territory, with the others backfilling one after the other. 
+
+Chain moves, when pulled off, are powerful. 
+
+When the lead unit in a chain is bounced, however, every other unit in that chain is bounced back to its starting point as well. 
+
+#### Merry Go Round
+
+Three units may exchange territories in a triangle pattern
+
+
+### Convoys
+
+The last kind of movement sees a fleet convoy an army through a body of water. 
+
+Imagine the English player hopes to take Belgium in Fall 1901 (ambitious). He might followup his Spring orders with: 
+
+A Wal - Bel
+F ENG C Wal - Bel (C = Convoy)
+F NTH S Wal - Bel
+
+Wal - Bel succeeds unless France and/or Germany also put a supported unit into Bel. This could occur as follows: Germany orders Ruh - Bel and is supported by France's Bur S Ruh - Bel, we have a bounce--2 vs 2--and the English army returns to Wales.
+
+The above is for example only. This set of moves is unusual in Fall 1901 as it means that England is not going for the neutral, Norway. 
+
+#### Disrupting a Convoy
+
+A convoy is disrupted if the convoying fleet is dislodged. 
+
+Let's imagine the above actually occurred in Fall 1901, and France builds a fleet in Brest in Winter 1901. 
+
+English tries the convoy again, but France dislodges the fleet with F Bre - ENG and F MAO S Bre - ENG. (The convoy fails--the army in Wales stays in Wales--and the English F ENG must retreat.)
+
+#### The Bunny Hop
+
+While two units may not trade places, even F Por with F Spa(sc), you may convoy a unit 'around' another. 
+
+Play this out: 
+
+Italy: 
+A Pie - Mar
+F LYO C Pie - Mar
+
+France: 
+A Mar - Pie
+F Spa(sc) - LYO
+
+Leaving aside France's dubious orders, the result is Italy's army in Piedmont moves around or bunny hops the French army going east, and lands in Marseille. 
+
+### Retreats & Disbands
+
+Retreats take place when a unit is dislodged. 
+
+A unit may retreat to any adjacent territory that is both unoccupied and where there were also no bounces that season. The unit may also be immediately disbanded (removed from the board).
+
+There is no negotiation during retreat phases. 
+
+If two or more units choose to retreat to the same territory, they are both/all removed from the board. 

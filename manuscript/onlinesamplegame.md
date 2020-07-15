@@ -1,8 +1,8 @@
 # Playing Diplomacy Online
 
-This is the first of two sample games. 
+This is the first of two sample games offered in this book. 
 
-From my negative review of online play in this book's opening, you might be surprised to find more discussion of it. I'll do you one better: a sample (actual) game I played with members of the Minnesota Diplomacy Club in the first part of 2020. 
+Here you have a game played with members of the Minnesota Diplomacy Club in the first part of 2020. 
 
 ## The Game Conditions
 
