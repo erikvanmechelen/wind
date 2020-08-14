@@ -10,19 +10,48 @@ Knowing what options and constraints you have allows you to get creative, to bet
 
 ## The Nature of Diplomacy
 
-Before tactics, let's set the table. 
+"Win if you can. Lose if you must. But always cheat."
 
-For me, Diplomacy is a 7-player game about area control guided by secret and simultaneous piece movement. The player who most effectively manages and strategically expands his territory wins or takes part in a draw. If we advance the discussion to include game theory, all good strategies include one thing: effective negotiation. In a word, Diplomacy.  
+One of my favorite film directors, Werner Herzog, reminded me of this quote, attributed to Jesse Ventura, a WWE wrestler and former governor of my home state, Minnesota. While it may provide a catchy tagline (or even approach to good play) for a game like Diplomacy, it doesn't describe WHAT the essence of Diplomacy is. 
 
-He who can influence his opponents to collaborate at the right moments and misdirect them in others improves his drawing and winning chances. The game is a ritual with comparisons to Machiavellian political philosophy as well as to notions of realpolitik present in the era contemporary to the starting positions of the game: 1901. (For history of 'realpolitik', see the book by Ludwig von Rochau or Kaiser Wilhelm's unification efforts in Germany.)
+How you think of the game of Diplomacy frames how you play it. So, it is important to ask: how are you assembling your model of what the game of Diplomacy is?
 
-## Who am I?
+In my case, that foundation was laid through an introduction to the game in my sophomore-year high school history class, and later through the DPJudge, through the club I setup in high school, and subsequent online and club games in Minnesota after meeting Ben Johnson, Zachary Moore, and Jake Langenfeld over a decade later. The model was picked up experientially versus theoretically. I don't recall thinking about the game abstractly, in a top-down approach, but rather from a bottom-up approach through game after game with a variety of players. To think about the game from a top-down level, I have to sit apart from the overpowering models of that bottom-up approach, which isn't easy to do. 
 
-I first played Diplomacy at age 15 in 2002, a face-to-face game hosted by my history teacher. After winning as Germany, I started a Diplomacy Club which took over our school. Today, I'm a council member of the MN Diplomacy Club and earned Player of the Year in the inaugural 2019 season for best overall results. 
+But here goes:
 
-I expect to play in the next World Diplomacy Championships, Carnage in 2020.
+For me, that Diplomacy is a 7-player game focused on area control guided by secret and simultaneous piece movement. The player who most effectively manages and strategically expands his territory wins or takes part in a draw. 
 
-*Edit: To be determined given the novel coronavirus.*
+The game is a ritual with comparisons to Machiavellian political philosophy as well as to notions of realpolitik present in the era contemporary to the starting positions of the game: 1901. (For history of 'realpolitik', see the book by Ludwig von Rochau or Kaiser Wilhelm's unification efforts in Germany.)
+
+If you take as reasonable my description above, then we can proceed into a discussion of what to do given these game conditions. 
+
+We can say things like: The player who can influence their opponents to collaborate at the right moments and misdirect them in others improves the player's drawing and winning chances. 
+
+If we advance the discussion to include game theory, all good strategies include one thing: effective negotiation. In a word, diplomacy. 
+
+But HOW should this diplomacy be carried out. Sure, a given game master (GM) or Tournament Director (TD) will detail which ruleset and which guidelines (or house rules) are to be followed. However, the game rules itself do not restrict almost any behavior, negotiation styles, or approaches to the game. 
+
+In a game whose explicit rule-set is quite open-ended surrounding the most important aspect--the diplomacy--it 
+
+Norms about negotiation may exist in your subculture or the dominating culture of the game, but those are just that, norms in the zeitgeist, rather than bedrock or universal truths about the game.
+
+Let's take a common class of diplomatic interference: interjecting into another ongoing negotiation between other players.
+
+At a recent masked face to face game in my backyard in south Minneapolis, one player was intentionally butting into a conversation I was having. Of course I found it annoying, but it also cut into the amount of time and the clarity with which I could persuade or make plans with my would-be collaborator. How is not this a good move from the distracting party? 
+
+You might argue that this tactic is underhanded or irritating. But it achieved its result! 
+
+You might argue that because it is underhanded or irritating, that I am less likely to want to work with that particular player going forward, given this undesireably 'dishonorable' behavior. Maybe so. But in that case, that is a risk the player employing that tactic takes on. 
+
+There is an alternative way to think about this, which is, that players may take on personas, or masks, or outfits, while engaged in a game. That is, from this view, we should expect players to do whatever it is that fits that persona, or that is acceptable within that perception of that player's persona, and not carry ill-will towards that approach. 
+
+Watching how your opponents react to various approaches to the simple act of having a conversation, or conducting their diplomacy, will give you a clue as to how they think about the game. From there, you might deduce an approach that will give you an edge in your diplomatic relations with them. 
+
+How you think > what you think. 
+
+"Win if you can. Lose if you must. But always cheat."
+
 
 ## Stealing Your Destiny
 
@@ -227,6 +256,10 @@ Retreats take place when a unit is dislodged.
 
 A unit may retreat to any adjacent territory that is both unoccupied and where there were also no bounces that season. The unit may also be immediately disbanded (removed from the board).
 
-There is no negotiation during retreat phases. 
+There is no negotiation during retreat phases. If retreats for more than one player are to be made, this must be written down (in face-to-face games) or happens without press. 
 
 If two or more units choose to retreat to the same territory, they are both/all removed from the board. 
+
+In a Fall season, it can be useful to disband a dislodged unit and rebuild a new fleet or army in a home center. 
+
+If you are unable to rebuild, retreating to an open territory lets you analyze the board and make the proper disband during the Winter adjustments phase. 
