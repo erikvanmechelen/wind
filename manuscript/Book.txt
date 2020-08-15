@@ -7,12 +7,7 @@ fundamentals.md
 coordination.md
 scoring.md
 imbalance.md
-whichcountry.md
-boardtop.md
-playeroftheyear.md
 solo.md
-sailorstory.md
-makingrain.md
 77mistakes.md
 28openings.md
 endgame.md
