@@ -23,6 +23,8 @@ Below are simply my personal thoughts on possible conditions for soloing. Any of
 
 T> In [MNDC2020: Game 1](https://www.backstabbr.com/sandbox/MNDC2020-01/4537400859033600) I played as England. Do you think this could lead to a soloable position? Note that I built three fleets as I thought we would play one more year under time constraints, but the game was voted a draw before Spring 1909 negotiations. If I was playing for a solo, I may not have built three fleets. (The Minnesota Diplomacy Club currently plays under Sum-of-Squres scoring.)
 
+T> In [MNDC2020: Game 4](https://www.backstabbr.com/game/Private-Minnesota-Game-IV/5893925321048064) I played as Germany, reaching 14 centers by Winter 1909. Do you think this could lead to a soloable position?
+
 Please note: I don't believe I've ever soloed in a proper game of Diplomacy.
 
 Good luck as you too seek the elusive solo.

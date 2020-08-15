@@ -7,8 +7,6 @@ fundamentals.md
 coordination.md
 scoring.md
 imbalance.md
-notation.md
-nogamelike.md
 whichcountry.md
 boardtop.md
 playeroftheyear.md
@@ -19,3 +17,4 @@ makingrain.md
 28openings.md
 endgame.md
 resources.md
+nogamelike.md

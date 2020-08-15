@@ -1,13 +1,13 @@
 {sample: true}
 # Beautiful Imbalances
 
-I've made a few games with my brothers (board games, and an iOS game) and so I enjoy analyzing a game from the designer's perspective. Participating in local IGDA events or design events like Protospiel--where fellow MN Diplomacy council member, Jake Langenfeld, was testing his 'Masters of the Senate'--has taught me more about how to approach games critically. 
+I've designed a few games with my brothers, including board games and an iOS game, and so I enjoy analyzing a game from the designer's perspective. Participating in local IGDA events or design events like Protospiel--where fellow MN Diplomacy council member, Jake Langenfeld, was testing his 'Masters of the Senate'--has taught me more about how to approach games critically. 
 
 The more I play, look at, and think about Diplomacy, the more beautiful imbalances I see. Like a guitar, whose harmonics arise from imperfections, Diplomacy may be the wonder it is by virtue of these quirks in its design.  
 
-It might seem odd to begin the book this way, but as the writer I want to provide the reader something fresh, so that even if you only complete this chapter and no more, you might have come to see something differently, and your time will have been well spent. 
+Consider this chapter a kind of *interlude* which might be skipped if you so desire.
 
-In this chapter we'll discuss unit mix at game start, the proximity to stalemate lines of neutral supply centers, the relative position of home centers to stalemate lines, supply center density, and unit density. All this will set us up for a more rigorous discussion of the coordination problem in the following chapter.
+Here we'll discuss unit mix at game start, the proximity to stalemate lines of neutral supply centers, the relative position of home centers to stalemate lines, supply center density, and unit density. All this will set us up for a more rigorous discussion of the coordination problem in the following chapter.
 
 After reading this chapter, you'll understand why Turkey doesn't start the game with F Smy and why Italy and France don't often do well when they fight each other. You'll also see that since England and Turkey are behind stalemate lines, their existence retains uncertainty and imbalance in a game's board texture, as problematic and powerful as a rook on the seventh rank in a game of chess.
 

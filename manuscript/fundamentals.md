@@ -55,11 +55,35 @@ How you think > what you think.
 
 ## Stealing Your Destiny
 
-Winning in Diplomacy is far, far more than ensuring you get your orders written accurately and in the box on time. 
+Winning in Diplomacy requires far, far more than ensuring you get your orders written accurately and in the box on time. 
 
 But to give too much away--and believe me, I'm trying--is also double-edged, because it takes away some of the fun of making your own mistakes and discovering new ways that the old guard didn't see. 
 
 This gives you a chance to try new things, like ordering `A Lvp H` (!) for diplomatic reasons. 
+
+## Notation
+
+Diplomacy notation or Order Writing is easy to understand once you’ve learned it. I'll be using the following in this book: 
+
+MOVE  
+A Mar - Spa  (Army Marseilles Moves to Spain)  
+F Ank - BLA  (Fleet Ankara Moves to Black Sea)  
+
+SUPPORT  
+A Par - Bur  
+A Mar S Par - Bur (Army in Marseilles Supports Army Paris Moves to Burgundy)  
+
+The order ‘A Par - Bur’ must also be written for the above Support order to be valid. 
+
+CONVOY  
+A Pic - Wal  
+F ENG C Pic - Wal  (Fleet English Channel Convoys Army Picardy to Wales)   
+
+The order ‘A Pic - Wal’ must also be written for the above Convoy order to be valid.  
+
+HOLD  
+A Mun H  (Army Munich Holds its position) 
+
 
 ## Tactics
 
@@ -209,7 +233,9 @@ When the lead unit in a chain is bounced, however, every other unit in that chai
 
 #### Merry Go Round
 
-Three units may exchange territories in a triangle pattern
+Three units may exchange territories in a triangle pattern.
+
+Occasionally, this takes place in the Balkans, and less frequently in the Low Countries.
 
 
 ### Convoys

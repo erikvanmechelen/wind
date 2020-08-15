@@ -1,14 +1,16 @@
 # Scoring Systems
 
+Bryan Pravel of the Windy City Weasels remarked in a summer 2020 YouTube chat that a scoring system simply reflects the designers view on how a particular game might best be played. 'Best' is the keyword.
+
 Since the seven versions of the rulebook are either contradictory or ambiguous about how to value draws and wins, several scoring systems have emerged in online, club, and tournaments scenes. You might peruse [this list of 50+ scoring systems](http://www.world-diplomacy-database.com/php/scoring/scoring.php) to see how much experimentation the hobby has tried.  
 
 The chosen scoring system suggests a kind of value system, a kind of preference, or set of preferences, a particular person or group has toward how the game of Diplomacy ought to be played.
 
-Once you know what style of game you like to play--or perhaps, which style suits your own strengths--you might selfishly find yourself preferring a certain system.  
+Once you know what style of game you like to play--or perhaps, which style suits your own strengths--you might selfishly find yourself preferring a certain system. Others have their preferences as well. The skilled player will not only understand the system that has presumably been agreed to, but also notice when and how players deviate from appropriate strategy.  
 
 ## Draw-Size Scoring (Winner Take All)
 
-I'm actually reasonably partial to draw-based scoring. If no-one actually won the game (18 centers), then it is a draw shared equally. 
+I'm actually reasonably partial to draw-based or draw-adjacenet scoring. If no-one actually won the game (18 centers), then it is a draw shared (relatively) equally. 
 
 ## Sum of Squares
 
@@ -18,7 +20,9 @@ This being said, my wife quipped, "Well, no one should be giving out 8th-place t
 
 ## My Preferred, for a Club League System (Tribute)
 
-Leading up to 2020, the Minnesota Diplomacy Club discussed Recruitment & Retention as important priorities for the 2020 season. We had grown to 30 players and wanted to continue growing and also have players be excited enough to return for 3+ games each season.
+Read all about the [Tribute system](https://windycityweasels.org/tribute-scoring-system/) (on the Windy City Weasels website).
+
+Leading up to 2020, the Minnesota Diplomacy Club discussed recruitment and retention as important priorities for the 2020 season. We had grown to 30 players and wanted to continue growing and also have players be excited enough to return for 3+ games each season.
 
 After studying Tribute (previously Janus), developed in Chicago, I proposed we either shift to Tribute for 2020, or as a compromise, trial it alongside Sum of Squares--in that case we would have two sets of standings.
 
@@ -55,3 +59,5 @@ Hopefully this elongated explanation and analysis gives you some actual data and
 Remember, how you value a board game experience and how you view the game of Diplomacy will likely influence that decision. Give those two questions a think first, then decide! You can't go too horribly wrong one way or another. 
 
 *In the Minnesota Diplomacy Club, the best three results and the average of remaining scores puts you in contention for a top-7 Top Board, Championship game for the title 'Best Diplomacy Player in Minnesota, while the best overall score from the season earns you the title 'Player of the Year' and poll position for the Paris Method great power selection in the Championship.*
+
+*Many games on the Diplomacy Broadcast Network (YouTube) include live updates on the scoring system, Tribute or otherwise, while commentating or recapping a given game.*

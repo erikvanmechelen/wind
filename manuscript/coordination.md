@@ -22,15 +22,17 @@ In part due to unit density and in part thanks to the rule requiring attacking u
 
 Consider further that a unit in some situations may both cut support and hold its current position from a single unit moving into its occupied territory. 
 
-The trick is ensuring that your neighbors, once a plan is made, actually follow through accurately on that plan. 
+The trick is ensuring that your neighbors, once a plan is made, actually follow through accurately on that plan. (Or, at least more often than not.)
 
-Uncertainty exists in almost every conversation and in almost every decision on move-sets. 
+Uncertainty exists in almost every conversation and in almost every decision on explicit move-sets. Many players are careful to divulge exactly which pieces are going where so as not to establish the expectation that they will be sharing the goings-on of each of their units every turn.
 
 
 ### Some Collaboration Required
 
-In Diplomacy, coordinated approaches trump non-coordinated efforts.
+In Diplomacy, coordinated approaches usually out-perform poorly organized efforts.
 
-The fact that 'alliances' rarely last the entire game nor even very long at all should not dissuade you from coordinating with neighbors. If you can coordinate, you gain the value of supports and support-cutting while also gaining value given that particular neighbor is not supporting your shared neighbor or support-cutting against you. 
+The fact that alliances rarely last the entire game nor even very long at all should not dissuade you from coordinating with neighbors. If you can coordinate, you gain the value of supports and support-cutting while also gaining value given that particular neighbor is not supporting your shared neighbor or support-cutting against you. 
 
-Some games seem to tip on minor shifts in unit positioning, causing ripples and then waves that roll across the Med and Europe. Knowing this, keeping on good standing so as to enable collaboration is clearly necessary for much if not the entire game, with as many neighbors and players as possible. Exactly *how* you accomplish this is harder to showcase. However, what should be emphasized is this: If you encounter fellow players making a case that collaboration is impossible, they are likely incorrect in the realm of Diplomacy.  
+Some games seem to tip on minor shifts in unit positioning, causing ripples and then waves that roll across the Med and Europe. Knowing this, keeping on good standing so as to enable collaboration is clearly necessary for much if not the entire game, with as many neighbors and players as possible. Exactly *how* you accomplish this is harder to showcase. However, what should be emphasized is this: If you encounter fellow players making a case that collaboration is impossible, they are likely incorrect in the realm of Diplomacy. 
+
+Part of the beauty of Diplomacy is that it forces you to stretch beyond your zones of comfort in order to ally with people you may not particularly enjoy outside the game for your mutual benefit within it.
