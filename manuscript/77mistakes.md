@@ -6,7 +6,7 @@ Jokes aside, it is extremely hard to play even a near-perfect game of Diplomacy.
 
 I am damn sure yet to and highly doubt I ever will give a near-flawless performance.
 
-There are just too many mistakes, not to mention pitfalls, into which one can unknowingly walk.  
+There are just too many mistakes available. Too many pitfalls into which one can unknowingly walk.  
 
 Here's just a few of them. Maybe you can think of more.  
 

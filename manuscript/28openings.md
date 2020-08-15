@@ -42,7 +42,7 @@ T> After seeing Austria's Spring 1901 moves, why might Italy decide to take Trie
 
 Continuations of the above--again, perhaps overly fancy opening--might include working with Turkey, Italy, or both. At the right moment, you should be able to break into Russia and at the right moment (this is a short, time-bound game remember?) you can steal back a few Balkan centers to top the board.
 
-### BEYOND 1902
+#### BEYOND 1902
 
 Some Austrian diplomats don't think beyond 1902 until they've arrived there. But to forgo such potential is a mistake.
 
@@ -61,7 +61,7 @@ A Bul, F Smy
 
 Actually, the above is only too common (and there are worse scenarios), but an Austrian with an ounce of grit and a measure of panache will know how to work his neighbors to his own delight. If it seems like Italy has your number, play his game for awhile. If Turkey would like to work with you, do not be afraid. At one point, even in these seemingly weakened arrangements, the well-timed stab is a knife in your favor. Better still, you may even keep it sheathed well into the mid-game.  
 
-### ERIK'S CHOICE
+#### ERIK'S CHOICE
 
 Some variation of the Balkan Gambit. Making the right assessment with your Viennan army and simultaneously enchant your neighbors.
 
@@ -247,17 +247,17 @@ A second and perhaps more common use of the fleet in NTH is that it allows the E
 
 While France doesn't have the dynamism of other powers, I do have a fondness for France.
 
-1901
+#### 1901
 
 While it could be annoying to see the Englishman in ENG, the German in Bur, and the Italian in Pie, even this will not be the end of France's game. The Iberian peninsula holds two easy supply centers and routes to a good draw may continue with either German or French partnership (sometimes both if you fancy the Western Triple).  
 
-BEYOND 1902
+#### BEYOND 1902
 
 France can do well with either of England or Germany onside, or even both, in the notorious Western Triple, which gets a jump on the Eastern theater. The Western Triple is decisive but more or less useful depending on the scoring system at hand.  
 
 If France aims for a good draw or a solo, he likely will opt to partner with either of the English or the German. In a game where he must solo, he needs a plan to dismantle England, else England could reach the annoying 7-center stalemate position with the right maneuvers. Most English players will not be so clinical tactically, yet if a solo is desired, the French diplomat would do well to lay plans and create routes to the English isles at the right moment in the late early game or early mid-game. 
 
-ERIK’S CHOICE
+#### ERIK’S CHOICE
 
 In longer games, I prefer to play a quiet opening as France. The Iberian Indecision (F Bre - MAO, A Par - Gas, A Mar - Spa) might be my quirky favorite, leaving options flexible and the squabbles over Burgundy to the English and German. This approach allows the game to develop and come to you, so to speak.  
 
@@ -321,11 +321,11 @@ By numerics, Germany has a comparable range of openings to Russia, but a review 
 
 Like France and England, Germany will have to take a stance with regard to Belgium's future. With France, Burgundy will likely be discussed. With Russia, Sweden and the Baltic.
 
-BEYOND 1902
+#### BEYOND 1902
 
 To be at the helm of Germany is an exciting treat for most keen diplomats. You begin the game with the all important center: Munich. Routes to strong mid-game position are several, through Scandinavia, across the North Sea to England, and even into the heart of France. Keep the East balanced long enough and when you turn your sights in that direction, the remaining powers may not be able to stop your advance.
 
-ERIK’S CHOICE
+#### ERIK’S CHOICE
 
 One of my favorite continuations of the Danish Blitzkrieg is the Jutland Gambit:
 
@@ -365,6 +365,8 @@ In shorter games, preparing to break into France for quick gains is not unheard 
 
 The outright German-English attack from the French side is effectivee, especially if Italy is tipped off as well and annoyingly progressing into Piedmont.  
 
+Consider also: Using such an approach defends Munich while also having a say in Belgium even when you are unsure about France and England out of the gates. 
+
 ## Blitzkrieg, Danish Variation (Germany)
 
 F Kie – Den  
@@ -381,11 +383,11 @@ F Den is free in Fall to bounce the Russian with F Den – Swe if it appears the
 
 Perhaps the most difficult for new players, Italy has risen significantly in status, both in results collected from our network of gamemasters throughout Europe, and in my own heart.
 
-1901
+#### 1901
 
 More than any other power, it matters little how Italy wants to start the game. Italy's strength is its strategic influence, its ability to tilt the game in various directions, its implicit threat to do so.  
 
-BEYOND 1902
+#### BEYOND 1902
 
 For Italy, nearly all of the game of Diplomacy lies beyond 1902. To impatiently flail for unplanned centers may prompt a coalition against you. To ask for more than your fair share in an early game collaboration could mark you as greedy. To launch headfirst into a forlorn, lazy Lepanto, a shrug on your shoulders, should likewise be avoided.  
 
@@ -470,7 +472,7 @@ Why? The Russian must stay as busy as any diplomat in the early years. To begin 
 
 Russia's ability to build fleets on both sides of the primary stalemate line (from Saint Petersburg to Spain) is important. Russia may not perform quite as well as expected in non-timebound draw-based systems, but performs quite well in time bound sum-of-square, dominance, or solo-based scoring measures.  
 
-1901
+#### 1901
 
 Request Sweden with the overture of friendship. Explain to Germany that the build will be used in the South. The dormant threat of F Swe - Bal must be real else the German has little immediate incentive to gift Sweden.  
 
@@ -482,11 +484,11 @@ The lovely thing about Russia's numerous openings is that many of them may be tr
 
 Where you eventually build in Winter 1901 could even further keep options open for 1902 and beyond.  
 
-BEYOND 1902
+#### BEYOND 1902
 
 The Tsar's game can be quite strong even without a clear early game ally. If one does find direct cooperation, Russia can secure either a foothold in Scandinavia, the Balkans, or Turkey, entering the mid-game with 7-9 centers and everything to play for. Because Russia can build armies and fleets on both sides of the primary stalemate line, routes to a large draw or a solo are numerous.  
 
-ERIK’S CHOICE
+#### ERIK’S CHOICE
 
 If you really want to spice things up, try F Sev - Arm. This should show your hand to Austria and with luck he will go along with your plans to take down Turkey. In that case, you have the annoying F Arm (adjacent Turkey's home center, Ankara) as well as the possibility of positioning your army in Rumania (instead of the fleet) which gives you better mid-game position should you need to attack Austria (with Italy) or defend against a backstabbing Austrian. In the near term, what should seal Turkey's fate is a fleet build in Sev. Even if you don't make fast progress, with Austria onside you might even be able to get into a good northern position early as well--you won't have to immediately guard against Austrian armies in Gal, Rum, or Ukr.
 
@@ -625,17 +627,17 @@ How about rewards? Unless you’ve diplomatically succeeded in avoiding a bounce
 
 While I prefer to play a more central and active Great Power, I do enjoy me some Turkey.  
 
-1901
+#### 1901
 
 With concentrated home centers in Con, Ank, and Smy, the Turkish homeland is relatively easy to defend for even sustained sieges. A four-center Turk with, say, a fleet in BLA, a fleet in AEG, and armies in Bul and Con is as formidable a rock as any four-center power.  
 
 But you ought not merely aim to survive. Where is your fifth center coming from? This, conveniently, is a useful question for Italy. Will your fifth center be Greece, Rumania, Sevastopol? Which should it be? When is the best moment to annex it?   
 
-BEYOND 1902
+#### BEYOND 1902
 
 Turkey's game can be quite strong with only 5 or 6 centers. With fleets in AEG and BLA, Turkey can mobilize armies into southern Russia or the Balkans via convoy as well as defend comfortably. To win, Turkey will likely have to break through into Saint Petersburg or perhaps Portugal.  
 
-ERIK’S CHOICE
+#### ERIK’S CHOICE
 
 The Ship of the Desert which showcases the surprising F Ank - Arm.
 

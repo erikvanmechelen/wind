@@ -19,3 +19,5 @@ If only reading one of Calhamer's articles, I recommend ['The Invention of Diplo
 And of course this gem, written in 1961 in ['The Tactics of Diplomacy'](http://www.dipwiki.com/index.php?title=The_Tactics_of_Diplomac) still holds true today:
 
 > In any case, diplomatic considerations can override the technical.
+
+*If you're the kind of person reading this book, you're my kind of person. Please email writer@hey.com to let me know what your first impressions are.*

@@ -9,7 +9,7 @@ I never knew or spoke with Sharp, so I won’t ever know the his tone or meaning
 
 Even half a century after Sharp wrote those words, dishonorable-behaving men (and women) remain among us—in fact our hearts may be split!  
 
-Thankfully, too, the great hobby of Diplomacy persists and is healthy as ever, from vibrant online play to club leagues to increasingly competitive tournament play.  
+Thankfully, too, the great hobby of Diplomacy persists and is healthy as ever, from vibrant online play to club leagues to increasingly competitive tournament play, even with hybrid online games here in 2020.  
 
 Even if all of us who adore, even love, the game as we do—traveling hundreds of miles per year in horse-drawn wagons to play in face-to-face tournaments--decided to quit today, a young gamer would find it buried in the sand, and as in Jumanji unleash its dark but necessary chaos back into the world.  
 
@@ -25,4 +25,4 @@ The relationship you have with yourself is arguably the most important of all, a
 
 You can probably guess why I suspect there is no game—yet—like Diplomacy, but for the purposes of keeping you on edge as to whether I’ll walk into Trieste, I’ll reserve a fuller discussion till later.  
 
-There is presently urgent business of Diplomacy in which to attend.  
+There is presently urgent business of Diplomacy in which to attend.
